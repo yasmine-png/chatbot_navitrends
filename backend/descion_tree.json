@@ -1,0 +1,479 @@
+{
+  "start": {
+    "message": "Bienvenue chez Navitrends ! Que souhaitez-vous faire ?",
+    "choices": {
+      "Découvrir les services ": "services",
+      "Obtenir de l’aide technique": "aide",
+      "Contacter un support": "contact"
+    }
+  },
+  "services": {
+  "message": "Voici un aperçu des services proposés par Navitrends :\n\nDéveloppement de sites web & applications : création de sites vitrines, e-commerce, applications web et mobiles (Flutter, React Native, natif), avec sécurité, SEO, intégration de paiements, multilingue, et évolutivité.\nSolutions ERP/CRM/BI : intégration et personnalisation d’ERP open source (Odoo, Dolibarr, ERPNext), gestion de production, stocks, qualité, maintenance, CRM, automatisation des leads, reporting, connecteurs e-commerce, IoT, et BI sur mesure.\nOutils d’IA & automatisation : génération de contenus, analyse de données, automatisation marketing, recommandations produits, chatbots, reconnaissance d’image, maintenance prédictive, newsletters personnalisées.\nMarketing digital : campagnes Google/Meta/LinkedIn Ads, SMS, emailing, création de contenus, reporting, tracking, retargeting, optimisation de budget, landing pages, intégration CRM, et formation aux outils digitaux.\nConsulting, formation & accompagnement : ateliers de cadrage, audit, gestion de projet agile, formations personnalisées, documentation, support post-lancement, conduite du changement, R&D et innovation sur mesure.\nVous souhaitez :",
+  "choices": {
+    "En savoir plus sur les ERP/CRM": "erp",
+    "Découvrir nos solutions IA": "ia",
+    " marketing digital": "marketing",
+    " Applications mobiles": "mobile",
+    "Applications web": "web",
+    "Contacter le support Navitrends": "contact"
+  }
+ },
+ "contact": {
+    "message": "Vous pouvez nous contacter à commercial@navitrends.com ou via notre formulaire ci-dessous.",
+    "choices": {}
+  },
+  "web": {
+    "message": "Voici un aperçu de nos solutions web chez Navitrends :\n\nTypes de projets : Nous réalisons des sites vitrines pour présenter votre activité, des sites e-commerce pour vendre en ligne, ou des applications web interactives si vous avez besoin d’outils avancés. Nous vous orientons selon vos objectifs et votre secteur d’activité. Un portfolio de réalisations est disponible sur demande.\nAccompagnement personnalisé : Nous proposons une phase de cadrage pour clarifier vos besoins, des ateliers de brainstorming, et la validation des maquettes pour garantir que le site reflète bien votre image de marque.\nMultilingue & contenu : Nos sites peuvent être multilingues et nous proposons la rédaction de contenu si besoin.\nSEO & performance : L’optimisation technique pour le référencement (SEO) est incluse dès le départ. Nous assurons la compatibilité avec Google Analytics et Search Console, et proposons des audits SEO après lancement. La rapidité de chargement et l’indexation sur Google sont également prises en charge.\nSécurité & maintenance : Mise en place de systèmes de détection des connexions malveillantes, chiffrement des données sensibles, tests de sécurité, et contrats de maintenance disponibles après livraison.\nFonctionnalités avancées : Intégration de newsletters, Google Ads, Facebook Ads, réseaux sociaux, formulaires, paiement en ligne, et suivi mensuel du trafic via des rapports personnalisés.\nMéthodologie agile : Suivi de projet collaboratif, réunions régulières, possibilité d’ajuster le projet en cours de route, et validation des étapes clés par le client.\nSouhaitez-vous en savoir plus sur :",
+    "choices": {
+      "Exemples de sites réalisés": "exemples_sites_realises",
+      "Processus de création d’un site": "processus_creation_site",
+      "Fonctionnalités e-commerce": "fonctionnalites_ecommerce",
+      "Contacter le support": "contact"
+    }
+  },
+  "fonctionnalites_ecommerce": {
+    "message": "Fonctionnalités e-commerce\n\nVoici un aperçu des principales fonctionnalités e-commerce proposées par Navitrends :\n\nBoutiques en ligne sur-mesure : développement sur WordPress, WooCommerce, Prestashop, Shopify ou sur-mesure, avec design personnalisé, gestion multilingue et évolutivité garantie.\nPaiements en ligne sécurisés : intégration de Stripe, PayPal ou autres passerelles locales pour des transactions fiables et conformes aux normes de sécurité.\nGestion des produits et des stocks : synchronisation avec ERP/CRM pour la gestion des catalogues, commandes, stocks multi-entrepôts, dropshipping et traçabilité des produits.\nPromotions et campagnes commerciales : création de bons de réduction, promotions ciblées, relance de paniers abandonnés et campagnes marketing multicanales (email, SMS, WhatsApp).\nAutomatisation et personnalisation : tunnels de vente personnalisés, segmentation dynamique des clients, scoring de leads, recommandations produits par IA et automatisation des relances.\nIntégrations avancées : connexion avec marketplaces (Amazon, Cdiscount…), CRM, outils d’emailing (Mailchimp, Sendinblue…), comparateurs de prix et APIs externes.\nExpérience utilisateur optimisée : responsive design, rapidité de chargement, conformité aux normes d’accessibilité, intégration de chatbots, Google Maps, modules de réservation et newsletters.\nReporting et analyse : tableaux de bord de performance, suivi des ventes, analyse du ROI, veille concurrentielle et indicateurs personnalisés.\nSécurité et conformité RGPD : protection des données, gestion des consentements, sauvegardes régulières et maintenance de sécurité.\nSouhaitez-vous des détails sur une fonctionnalité précise ou un accompagnement pour votre projet e-commerce ?",
+    "choices": {
+      "En savoir plus sur l'intégration ERP/CRM": "aider",
+      "Demander un audit e-commerce": "audit_ecommerce",
+      "Obtenir de l’aide sur le marketing digital": "marketing",
+      "Contacter le support": "contact"
+    }
+  },
+  "processus_creation_site": {
+    "message": "Voici le processus de création d’un site web chez Navitrends :\n\nCadrage & définition des besoins : Nous commençons par une phase de cadrage pour clarifier vos objectifs, organiser des ateliers de brainstorming et établir un brief stratégique. Cette étape permet de bien comprendre vos attentes et de vous conseiller sur le type de site le plus adapté (vitrine, e-commerce, application web).\nMaquettes & validation : Nos UI/UX designers réalisent des maquettes (Figma ou Adobe XD) en respectant votre charte graphique. Vous validez le design avant le début du développement. Plusieurs allers-retours sont possibles jusqu’à satisfaction.\nDéveloppement : Le site est développé sur-mesure ou à partir d’un CMS selon vos besoins et budget, avec les technologies adaptées (WordPress, Laravel, Symfony, Node.js, React, Vue.js). Nous intégrons les fonctionnalités souhaitées : multilingue, paiement en ligne, formulaires, chatbots, Google Maps, etc..\nOptimisation & conformité : Nous assurons l’optimisation SEO technique, la rapidité de chargement, la compatibilité mobile (responsive), la sécurité (certificat SSL, pare-feu, RGPD), et l’accessibilité (normes WCAG).\nRecette & mise en ligne : Après vos tests et validations, le site est mis en ligne. Nous vous accompagnons pour l’hébergement, le choix du nom de domaine, et l’indexation sur Google.\nSupport & évolutivité : Vous bénéficiez d’un support réactif, de la propriété du code source, de sauvegardes régulières, et la possibilité de faire évoluer le site selon vos besoins futurs.\nVous souhaitez des détails sur une étape en particulier ?",
+    "choices": {
+      "En savoir plus sur la phase de cadrage": "phase_cadrage",
+      "Découvrir les technologies utilisées": "technologies_utilisees",
+      "Contacter un expert Navitrends": "contact"
+    }
+  },
+  "phase_cadrage": {
+    "message": "La phase de cadrage chez Navitrends est essentielle pour clarifier vos besoins et définir la stratégie de votre futur site web. Elle comprend généralement :\n\nUn brief stratégique pour comprendre vos objectifs et votre secteur d’activité.\nDes ateliers de brainstorming ou de co-construction pour bien cerner vos attentes et recueillir vos idées.\nDes recommandations personnalisées sur le type de site le plus adapté (vitrine, e-commerce, application web).\nLa préparation d’un cahier des charges et la validation des grandes orientations du projet.\nCette étape permet de garantir que le site final correspondra parfaitement à votre image et à vos besoins, tout en facilitant la suite du projet (maquettes, développement, etc.).\n\nSouhaitez-vous en savoir plus sur la validation des maquettes ou sur les technologies utilisées ?",
+    "choices": {
+      "En savoir plus sur la validation des maquettes": "validation_maquettes",
+      "Découvrir les technologies utilisées": "technologies_utilisees",
+      "Contacter un expert Navitrends": "contacter_expert"
+    }
+  },
+  "validation_maquettes": {
+    "message": "La validation des maquettes est une étape clé chez Navitrends. Avant tout développement, nos UI/UX designers réalisent des maquettes (Figma ou Adobe XD) en respectant votre charte graphique. Vous validez le design proposé et pouvez demander plusieurs allers-retours jusqu’à satisfaction complète. Le développement ne commence qu’après votre validation finale, ce qui garantit que le site reflète parfaitement votre image et vos attentes. Cette démarche collaborative vise à assurer une expérience utilisateur optimale et à éviter toute mauvaise surprise lors de la mise en ligne.\n\nSouhaitez-vous en savoir plus sur les technologies utilisées ou sur l’intégration de fonctionnalités spécifiques ?",
+    "choices": {
+      "Technologies utilisées": "technologies_utilisees",
+      "Fonctionnalités web possibles": "fonctionnalites_web_possibles",
+      "Contacter le support": "contact"
+    }
+  },
+  "fonctionnalites_web_possibles": {
+    "message": "Voici un aperçu des fonctionnalités web possibles avec Navitrends :\n\nDesign sur-mesure : choix des couleurs, polices, respect de votre charte graphique, design responsive (adapté à tous les écrans), conformité aux normes d’accessibilité (WCAG), validation des maquettes avant développement, allers-retours jusqu’à satisfaction.\nFonctionnalités avancées : intégration de chatbots, cartes Google Maps, modules de réservation, formulaires personnalisés, newsletters, gestion multilingue, paiement en ligne sécurisé (Stripe, PayPal), espace client, back-office d’administration, gestion de contenus, modules e-commerce, blog, galeries médias, etc..\nPerformance & sécurité : optimisation de la vitesse de chargement, compatibilité multi-navigateurs, sauvegardes régulières, certificat SSL (HTTPS), pare-feu, protection anti-spam, conformité RGPD, détection des connexions malveillantes, propriété du code source.\nRéférencement & marketing : optimisation SEO technique dès le départ, compatibilité Google Analytics/Search Console, intégration réseaux sociaux, outils de suivi du trafic, campagnes marketing (Google Ads, Facebook Ads), newsletters, reporting personnalisé.\nÉvolutivité : sites pensés pour être évolutifs et adaptables à vos besoins futurs, ajout de fonctionnalités possible à tout moment.\nAccompagnement : ateliers de cadrage, rédaction de contenu, formation, support technique, maintenance, audit SEO, documentation technique, NDA sur demande.\nSouhaitez-vous des détails sur une fonctionnalité en particulier ou un exemple d’intégration ?",
+    "choices": {
+      "Exemples de modules intégrés": "exemples_modules_integres",
+      "En savoir plus sur la sécurité": "en_savoir_plus_securite",
+      "Contacter un expert": "contacter_expert"
+    }
+  },
+  "exemples_modules_integres": {
+    "message": "Voici quelques exemples de modules que Navitrends peut intégrer à votre site web :\n\nChatbot interactif pour l’assistance client\nCarte Google Maps pour la localisation\nModule de réservation en ligne\nFormulaires personnalisés (contact, devis, candidature, etc.)\nNewsletter et gestion d’abonnements\nPaiement en ligne sécurisé (Stripe, PayPal)\nEspace client ou back-office d’administration\nGestion multilingue pour sites internationaux\nBlog, galeries médias, portfolios\nIntégration réseaux sociaux\nModules e-commerce (catalogue, panier, commandes)\nSystèmes de sauvegarde et sécurité avancée\nOptimisation SEO et connexion à Google Analytics/Search Console\nProtection anti-spam, pare-feu, détection des connexions malveillantes\nConnexion à des CRM ou ERP pour synchronisation des données\nCes modules sont personnalisables selon vos besoins et votre secteur d’activité.\n\nSouhaitez-vous des exemples concrets adaptés à votre projet ou en savoir plus sur un module spécifique ?",
+    "choices": {
+      "Demander un exemple concret": "demander_exemple_concret",
+      "En savoir plus sur un module": "en_savoir_plus_module",
+      "Contacter le support": "contacter_expert"
+    }
+  },
+  "demander_exemple_concret": {
+    "message": "Voici un exemple concret de site web sécurisé réalisé par Navitrends :\nNavitrends développe des sites web sur-mesure (vitrine, e-commerce, application web) en intégrant systématiquement des mesures de sécurité avancées.\nPar exemple, un site e-commerce réalisé par Navitrends bénéficie :\n\nD’un certificat SSL (HTTPS) inclus par défaut pour sécuriser les échanges,\nDe la protection contre les attaques (piratage, injections, etc.) grâce à l’application des bonnes pratiques et à des tests réguliers,\nDe sauvegardes régulières selon la fréquence souhaitée,\nD’un pare-feu et d’une protection anti-spam (Wordfence, reCAPTCHA),\nDe la détection automatique et du blocage des tentatives de connexion malveillantes,\nDe la conformité RGPD pour la protection des données personnelles,\nD’une maintenance de sécurité possible après livraison via un contrat dédié,\nD’un accès complet et propriétaire au code source pour le client.\nToutes ces garanties sont appliquées quel que soit le secteur d’activité ou la technologie choisie (WordPress, Laravel, Symfony, Node.js, React, Vue.js).\n\nVous souhaitez recevoir des exemples adaptés à votre secteur ou découvrir d’autres fonctionnalités ?",
+    "choices": {
+      "Demander un portfolio personnalisé": "demander_portfolio_personnalise",
+      "En savoir plus sur la maintenance": "en_savoir_plus_maintenance",
+      "Contacter le support": "contacter_expert"
+    }
+  },
+  "demander_portfolio_personnalise": {
+    "message": "Nous serons ravis de vous partager un portfolio personnalisé, avec des exemples de réalisations dans plusieurs secteurs d’activité. Pour recevoir un portfolio adapté à votre projet ou secteur, il suffit d’en faire la demande et nous vous l’enverrons rapidement.\n\nSouhaitez-vous préciser votre secteur d’activité ou le type de projet qui vous intéresse ? Cela nous permettra de cibler au mieux les exemples à vous présenter.",
+    "choices": {
+      "Préciser mon secteur": "preciser_mon_secteur",
+      "Contacter le support": "contacter_expert",
+      "En savoir plus sur nos réalisations": "en_savoir_plus_realisation"
+    }
+  },
+  "en_savoir_plus_maintenance": {
+    "message": "Navitrends propose des services de maintenance adaptés à vos besoins, que ce soit pour des sites web, applications mobiles ou solutions ERP/CRM. Après la mise en production, vous bénéficiez d’une maintenance corrective, évolutive, d’une assistance utilisateur et d’un monitoring pour garantir la continuité et la sécurité de vos outils.\n\nPour les ERP, un module GMAO (Gestion de Maintenance Assistée par Ordinateur) permet de gérer la maintenance préventive et curative, avec plannings, alertes, ordres d’intervention et historiques des pannes et pièces changées. Nos solutions couvrent également la maintenance industrielle, la gestion des interventions, des techniciens, des pièces détachées et la facturation pour les prestataires de maintenance.\n\nPour les sites web, Navitrends propose des contrats de maintenance de sécurité, incluant des sauvegardes régulières, des interventions rapides en cas de panne, et la mise à jour des protections contre les menaces (pare-feu, anti-spam, etc.).\n\nPour les applications mobiles, des forfaits de support et d’amélioration continue sont disponibles après la livraison, intégrant la sauvegarde et la récupération des données, ainsi que la gestion des mises à jour.\n\nSouhaitez-vous des informations détaillées sur la maintenance pour un type de projet spécifique (site web, application mobile, ERP/CRM) ?",
+    "choices": {
+      "Maintenance ERP / GMAO": "maintenance_erp_gmao",
+      "Maintenance site web": "maintenance_site_web",
+      "Maintenance application mobile": "maintenance_application_mobile",
+      "Contacter le support": "contacter_expert"
+    }
+  },
+  "en_savoir_plus_module": {
+    "message": "Pourriez-vous préciser de quel module vous souhaitez en savoir plus ? (ex : chatbot, paiement en ligne, réservation, gestion multilingue, etc.)",
+    "choices": {
+      "Chatbot": "chatbot",
+      "Paiement en ligne": "paiement_en_ligne",
+      "Réservation": "reservation",
+      "Gestion multilingue": "gestion_multilingue",
+      "Autre module": "autre_module"
+    }
+  },
+  "en_savoir_plus_securite": {
+    "message": "Navitrends accorde une grande importance à la sécurité de votre site web. Voici les principales mesures mises en place :\n\nProtection contre les attaques : Application des bonnes pratiques de sécurité, tests réguliers, détection et blocage des tentatives de connexion malveillantes (piratage, injections, etc.).\nCertificat SSL (HTTPS) : Inclus par défaut sur tous les hébergements pour garantir la confidentialité des échanges.\nSauvegardes régulières : Selon la fréquence souhaitée (quotidienne, hebdomadaire, etc.) pour assurer la récupération des données en cas d’incident.\nPare-feu et protection anti-spam : Mise en place d’outils comme Wordfence ou reCAPTCHA pour filtrer les accès et protéger contre les spams.\nConformité RGPD : Intégration systématique des obligations RGPD pour la protection des données personnelles des utilisateurs.\nMaintenance de sécurité : Possibilité de souscrire à des contrats de maintenance pour garantir la sécurité continue après la livraison du site.\nPropriété du code source : Vous avez l’accès complet et la propriété du code de votre site.\nContrat de confidentialité : Signature d’un NDA sur simple demande pour protéger vos informations sensibles.\nSouhaitez-vous plus de détails sur un aspect précis de la sécurité ou sur la conformité RGPD ?",
+    "choices": {
+      "En savoir plus sur la conformité RGPD": "en_savoir_plus_rgpd",
+      "Découvrir la maintenance de sécurité": "decouvrir_maintenance_securite",
+      "Contacter le support": "contacter_expert"
+    }
+  },
+  "decouvrir_maintenance_securite": {
+    "message": "Navitrends propose des contrats de maintenance de sécurité après la livraison de votre site web. Cette maintenance inclut :\n\nL’application des bonnes pratiques de sécurité et des tests réguliers pour protéger contre les attaques (piratage, injections, etc.).\nLa mise en place de certificats SSL (HTTPS) inclus par défaut sur tous les hébergements pour garantir la confidentialité des échanges.\nDes sauvegardes régulières selon la fréquence souhaitée (quotidienne, hebdomadaire, etc.) pour assurer la récupération des données en cas d’incident.\nUn support réactif en cas de panne ou d’incident de sécurité.\nL’intégration de pare-feu, de protections anti-spam (Wordfence, reCAPTCHA) et de systèmes de détection automatique des tentatives de connexion malveillantes.\nLa conformité RGPD pour la protection des données personnelles des utilisateurs.\nUn accès complet et propriétaire au code source pour le client.\nLa maintenance de sécurité est proposée via des contrats adaptés à vos besoins, pour garantir la pérennité et la sécurité de votre site dans la durée.",
+    "choices": {
+      "Demander un devis maintenance": "demander_devis_maintenance",
+      "En savoir plus sur la conformité RGPD": "en_savoir_plus_rgpd",
+      "Contacter le support": "contacter_expert"
+    }
+  },
+  "en_savoir_plus_rgpd": {
+    "message": "Navitrends intègre systématiquement les obligations RGPD dans chaque projet web ou application. Cela inclut la protection des données personnelles des utilisateurs, la mise en place des mesures de sécurité adaptées (pare-feu, détection des accès malveillants, sauvegardes régulières), et la conformité des formulaires de collecte de données. Les projets sont conçus pour respecter le consentement, l’anonymisation et les droits des utilisateurs conformément à la réglementation européenne. Vous bénéficiez ainsi d’un site ou d’une application conforme aux exigences RGPD dès la conception, avec accompagnement sur la mise en place des mentions légales et des politiques de confidentialité.\n\nSouhaitez-vous des précisions sur la gestion des consentements, la sécurité des données ou l’accompagnement juridique ?",
+    "choices": {
+      "Gestion des consentements": "gestion_consentements",
+      "Sécurité des données": "securite_donnees",
+      "Accompagnement juridique RGPD": "accompagnement_juridique_rgpd",
+      "Contacter le support": "contacter_expert"
+    }
+  },
+  "gestion_consentements": {
+    "message": "Navitrends applique les règles de consentement, l’anonymisation et le respect des droits utilisateurs pour garantir la conformité RGPD dans toutes les campagnes marketing et projets digitaux. Les obligations RGPD sont intégrées à chaque projet, assurant ainsi la protection des données personnelles et la gestion des consentements utilisateurs de façon rigoureuse.\n\nSouhaitez-vous des précisions sur la mise en œuvre concrète, l’intégration technique ou la gestion des demandes de consentement sur un site ou une application ?",
+    "choices": {
+      "En savoir plus sur la conformité RGPD": "en_savoir_plus_rgpd",
+      "Obtenir de l’aide sur l’intégration": "aider",
+      "Contacter le support": "contacter_expert"
+    }
+  },
+  "securite_donnees": {
+    "message": "Navitrends met en œuvre des mesures complètes pour garantir la sécurité des données : hébergement sécurisé, accès restreints, sauvegardes automatiques, cryptage des communications et politique de confidentialité rigoureuse. Pour les applications et ERP, la confidentialité et la protection des données sont assurées par le respect des normes RGPD, l’authentification avancée (mot de passe, biométrie, double facteur), le contrôle d’accès par rôle, la journalisation des actions et la gestion fine des permissions utilisateurs. Des tests de sécurité, la protection des API, la détection automatique des tentatives malveillantes et des contrats de confidentialité sont également proposés sur demande.\n\nSouhaitez-vous des précisions sur la sécurité pour un type de solution particulier (site web, application mobile, ERP/CRM) ?",
+    "choices": {
+      "Sécurité des sites web": "securite_sites_web",
+      "Sécurité des applications mobiles": "securite_mobiles",
+      "Sécurité ERP/CRM/BI": "securite_erp_crm_bi",
+      "Contacter le support": "contact"
+    }
+  },
+  "securite_sites_web": {
+    "message": "La sécurité des sites web est une priorité chez Navitrends. Voici les principales garanties apportées :\n\n- **Protection contre les attaques** : application des bonnes pratiques de sécurité (protection contre le piratage, injections, etc.) et réalisation de tests réguliers.\n- **Certificat SSL (HTTPS)** inclus par défaut sur tous nos hébergements pour sécuriser les échanges de données.\n- **Sauvegardes régulières** selon la fréquence souhaitée (quotidienne, hebdomadaire, etc.) pour garantir la restauration rapide en cas d’incident.\n- **Pare-feu et protection anti-spam** : intégration d’outils comme Wordfence ou reCAPTCHA pour filtrer les accès et bloquer les robots malveillants.\n- **Détection et blocage des connexions malveillantes** : mise en place de systèmes automatiques pour surveiller et bloquer les tentatives suspectes.\n- **Respect du RGPD** : intégration systématique des obligations de protection des données personnelles dans chaque projet.\n- **Maintenance de sécurité** : contrats de maintenance disponibles pour assurer les mises à jour, le monitoring et la correction rapide des failles.\n- **Accès complet au code source** : vous êtes propriétaire du code et pouvez y accéder à tout moment.\n\nPour toute demande spécifique (audit, documentation, ou accompagnement sur la sécurité), notre équipe support est à votre disposition.",
+    "choices": {
+      "Contacter le support": "contact"
+    }
+  },
+  "securite_mobiles": {
+    "message": "La sécurité des applications mobiles développées par Navitrends repose sur plusieurs engagements :\n\n- **Chiffrement des données sensibles** pour garantir la confidentialité des informations utilisateurs.\n- **Protection des API et limitation des accès** pour éviter toute intrusion ou exploitation non autorisée.\n- **Tests de sécurité** réalisés tout au long du développement pour détecter et corriger les vulnérabilités.\n- **Respect des normes RGPD** et obligations locales pour la gestion des données personnelles.\n- **Systèmes d’authentification avancés** (mot de passe, biométrie) disponibles pour protéger l’accès à l’application.\n- **Plan de sauvegarde et récupération des données** inclus dans les pratiques courantes.\n- **Architecture flexible** permettant des mises à jour régulières et une correction rapide des failles potentielles.\n- **Tests multi-appareils** pour garantir la robustesse et la sécurité sur différents environnements.\n- **Documentation technique et accompagnement post-livraison** pour assurer la pérennité et la sécurité de votre solution.\n\nToutes ces mesures sont intégrées dans notre démarche projet, de la conception à la maintenance.",
+    "choices": {
+      "Contacter le support": "contact"
+    }
+  },
+  "securite_erp_crm_bi": {
+    "message": "La sécurité des solutions ERP, CRM et BI chez Navitrends repose sur plusieurs dispositifs avancés :\n\n- **Contrôle d’accès strict** : gestion fine des droits et permissions selon le rôle de chaque utilisateur, pour garantir la confidentialité des données et la traçabilité des actions.\n- **Authentification forte** : authentification à deux facteurs (2FA), contrôle d’accès basé sur les rôles, journalisation des actions sensibles.\n- **Hébergement sécurisé & sauvegardes** : hébergement sécurisé, accès restreints, sauvegardes automatiques et cryptage des communications pour protéger vos données.\n- **Conformité RGPD & ISO** : respect des normes RGPD, gestion des historiques, traçabilité qualité, modules alignés sur les normes ISO (9001, 14001…), gestion des audits internes et plans d’actions.\n- **Reporting & traçabilité** : tableaux de bord personnalisés, indicateurs en temps réel, traçabilité complète des opérations et des accès.\n- **API sécurisées** : intégration possible avec des outils externes via API REST sécurisées.\n\nPour toute demande spécifique (audit sécurité, documentation technique, conformité sectorielle), notre équipe peut vous accompagner ou vous fournir des ressources complémentaires.",
+    "choices": {
+      "Contacter le support": "contact"
+    }
+  },
+  "accompagnement_juridique_rgpd": {
+    "message": "Navitrends intègre systématiquement les obligations RGPD dans chaque projet digital, assurant la conformité légale, la protection des données personnelles et la gestion des consentements utilisateurs. Cela inclut l’application des règles de consentement, l’anonymisation, le respect des droits des utilisateurs et la confidentialité des données, aussi bien pour les sites web, applications, campagnes marketing que les solutions ERP/CRM. Navitrends accompagne également ses clients dans la rédaction des documents nécessaires et la mise en œuvre des bonnes pratiques RGPD à chaque étape du projet.\n\nSouhaitez-vous des précisions sur l’intégration RGPD pour un type de solution particulier (site web, application mobile, ERP/CRM) ou sur la documentation juridique fournie ?",
+    "choices": {
+      "Préciser mon besoin RGPD": "preciser_besoin_rgpd",
+      "En savoir plus sur la sécurité des données": "securite_donnees",
+      "Contacter le support Navitrends": "contacter_expert"
+    }
+  },
+  "erp": {
+"message": "Voici un aperçu des solutions ERP/CRM proposées par Navitrends :\n\nQu’est-ce qu’un ERP/CRM ?\n\nUn ERP (Enterprise Resource Planning) centralise les processus de gestion (stocks, production, RH, etc.) pour améliorer la productivité et la prise de décision. Un CRM (Customer Relationship Management) se concentre sur la gestion de la relation client (prospection, ventes, SAV).\nTechnologies et solutions proposées\n\nNavitrends intègre des ERP open source (Odoo, Dolibarr, ERPNext) ou sur-mesure, adaptés à tous secteurs (industrie, e-commerce, services, startups, ONG).\nLes ERP sont modulaires, évolutifs, personnalisables, et peuvent être utilisés sur mobile ou tablette.\nPossibilité de démarrer avec le CRM seul puis d’étendre à l’ERP selon vos besoins.\nFonctionnalités principales\n\nGestion multi-entrepôts, multi-sociétés, production, stocks, maintenance, qualité ISO, planification, traçabilité, automatisations, reporting, BI, intégration IoT, synchronisation e-commerce, gestion des droits, etc..\nCRM : gestion des leads, scoring automatique, pipelines de vente, relances automatiques, campagnes multicanales (email, SMS, WhatsApp), intégration avec outils externes, signature électronique, reporting avancé, personnalisation de l’interface.\nMéthodologie et accompagnement\n\nDémarrage par analyse des besoins, ateliers fonctionnels, rédaction du cahier des charges, déploiement agile en sprints, formation adaptée à chaque profil, support post-lancement, maintenance évolutive et corrective.\nAudit ou reprise de projet ERP existant possible.\nAccompagnement à la conduite du changement et à la digitalisation des processus métier.\nAvantages des solutions Navitrends\n\nFlexibilité, absence de coûts de licence (open source), personnalisation, évolutivité, contrôle total sur vos données, intégration avec vos outils métiers, sécurité et conformité RGPD.\nPour aller plus loin :", 
+    "choices": {
+      "Demander un audit technique ERP/CRM": "audit",
+      "Obtenir de l’aide sur l’intégration": "aider",
+      "Découvrir nos modules métiers ": "modules_métiers",
+      "Contacter le support": "contact"
+    
+    }
+},
+ "preciser_besoin_rgpd": {
+    "message": "Navitrends intègre la conformité RGPD dans tous ses projets digitaux (sites web, applications, ERP/CRM, campagnes marketing) :\n\n- **Respect des obligations RGPD** : intégration systématique des règles de consentement, anonymisation des données, gestion des droits utilisateurs et respect de la confidentialité dans chaque projet.\n- **Sécurité des données** : hébergement sécurisé, accès restreints, sauvegardes automatiques, cryptage des communications et politique de confidentialité rigoureuse.\n- **Gestion fine des droits** : contrôle d’accès basé sur les rôles, permissions personnalisées, authentification forte (2FA), traçabilité des actions et journalisation des accès.\n- **Accompagnement et documentation** : remise de documentation technique, guides RGPD, et possibilité de formation pour vos équipes sur la gestion des données personnelles.\n- **Campagnes marketing** : application stricte des règles RGPD (consentement, anonymisation, droit à l’oubli) dans la gestion des campagnes digitales et CRM.\n\nPour des besoins spécifiques (audit RGPD, anonymisation avancée, documentation ou accompagnement personnalisé), notre équipe peut vous conseiller et adapter la solution à votre secteur.",
+    "choices": {
+      "Contacter le support": "contact"
+    }
+  },
+  "audit": {
+    "message": "Voici comment se déroule un audit technique ERP/CRM avec Navitrends :\n\nDiagnostic initial : Nous intervenons pour auditer votre système existant ou un projet ERP/CRM en cours, afin d’identifier les axes d’amélioration ou de migration possibles.\nAnalyse approfondie : L’audit débute par une série d’ateliers de cadrage, des interviews et l’analyse de vos flux métiers existants.\nRestitution & recommandations : Vous recevez un rapport détaillé avec des préconisations techniques et organisationnelles adaptées à vos besoins.\nAccompagnement : Navitrends peut ensuite vous accompagner dans la mise en œuvre des améliorations, la migration ou la reprise de projet.\nPour demander un audit ou obtenir un devis personnalisé, contactez directement notre équipe :\n\nEmail : support@navitrends.com\nTéléphone : +33 1 23 45 67 89\nSouhaitez-vous être mis en relation avec un expert ou en savoir plus sur nos méthodologies d’audit ?",
+    "choices": {
+      "Être contacté par un expert": "expert",
+      "Découvrir la méthodologie d’audit": "methodologie_audit",
+      "Retour aux solutions ERP/CRM": "erp",
+      "Contacter le supportt": "contact"
+    }
+  },
+  "methodologie_audit": {
+    "message": "Voici la méthodologie d’audit ERP/CRM appliquée par Navitrends :\n\nPhase d’analyse et ateliers de cadrage : L’audit débute par des ateliers approfondis, des interviews et l’analyse de vos flux métiers existants pour détecter les besoins réels et les axes d’amélioration.\nDiagnostic technique et fonctionnel : Navitrends intervient sur des projets existants ou en cours, même commencés ailleurs, pour réaliser un diagnostic, récupérer vos données et proposer une continuité de service adaptée.\nMéthodologie agile : Les projets sont menés en mode agile, avec des sprints, des démonstrations régulières et une adaptation continue de la solution selon vos retours. Cela permet d’ajuster la solution au fil de l’avancement et de garantir l’alignement avec vos attentes.\nLivrables : À l’issue de l’audit, vous recevez un rapport détaillé, un planning, un cahier des charges, la documentation utilisateur, et des recommandations techniques et organisationnelles sur mesure.\nAccompagnement : L’audit peut déboucher sur un accompagnement à la mise en œuvre, la migration, la formation des équipes et la conduite du changement, avec un suivi post-lancement de 3 à 12 mois selon le projet.\nSouhaitez-vous en savoir plus sur les livrables, la conduite du changement ou demander un audit personnalisé ?",
+    "choices": {
+      "En savoir plus sur les livrables": "livrables",
+      "Conduite du changement": "conduite_changement",
+      "Demander un audit personnalisé": "audit_personnalise",
+      "Contacter le support": "contact"
+    }
+  },
+  "livrables": {
+    "message": "Voici les principaux livrables remis lors d’un projet ou audit ERP/CRM avec Navitrends :\n\nPlanning détaillé du projet et des étapes clés ;\nCahier des charges technique et fonctionnel, co-construit avec vos équipes ;\nDocumentation utilisateur adaptée à chaque profil (direction, commercial, production, etc.) ;\nVidéos de formation et supports personnalisés pour la prise en main ;\nAccès aux environnements de test pour valider les fonctionnalités avant mise en production ;\nRapports d’audit et recommandations techniques/organisationnelles ;\nTableaux de bord personnalisés (KPIs, reporting, performance) ;\nDocumentation qualité (ISO, procédures, audits internes) ;\nLivrables de migration ou reprise de données si nécessaire ;\nAccompagnement post-lancement (support, suivi, évolutions).\nSouhaitez-vous des exemples concrets de livrables ou en savoir plus sur un type de livrable en particulier ?",
+    "choices": {
+      "Exemples de livrables": "exemples_livrables",
+      "En savoir plus sur la documentation utilisateur": "doc_utilisateur",
+      "Contacter le support": "contact"
+    }
+  },
+  "exemples_livrables": {
+    "message": "Voici des exemples concrets de livrables remis lors d’un projet ERP/CRM avec Navitrends :\n\nPlanning détaillé du projet et des étapes clés ;\nCahier des charges technique et fonctionnel, co-construit avec vos équipes ;\nDocumentation utilisateur adaptée à chaque profil (direction, commercial, production, etc.) ;\nVidéos de formation et supports personnalisés pour la prise en main ;\nAccès aux environnements de test pour valider les fonctionnalités avant mise en production ;\nRapports d’audit et recommandations techniques/organisationnelles ;\nTableaux de bord personnalisés (KPIs, reporting, performance) pour chaque métier ou service ;\nDocumentation qualité (ISO, procédures, audits internes) et modules dédiés à la conformité ;\nLivrables de migration ou reprise de données si nécessaire ;\nModules personnalisés adaptés à vos processus métier spécifiques ;\nScripts d’appel, checklists, questionnaires dynamiques pour le CRM commercial ;\nConnecteurs et API pour l’intégration avec e-commerce, marketplaces, outils externes ;\nTableaux de bord de performance industrielle (TRS, cadence, pannes, qualité) ;\nAccompagnement post-lancement (support, suivi, évolutions) sur 3 à 12 mois selon le projet.\nSouhaitez-vous un exemple détaillé d’un livrable précis ou des modèles de documents ?",
+    "choices": {
+      "Exemple de cahier des charges": "exemple_cahier_charges",
+      "Exemple de tableau de bord": "exemple_tableau_bord",
+      "Contacter le support": "contact"
+    }
+  },
+  "exemple_cahier_charges": {
+    "message": "Voici un exemple de structure de cahier des charges ERP/CRM tel que co-construit avec Navitrends :\n\nPrésentation du contexte et des objectifs : description de votre entreprise, de vos enjeux et des objectifs du projet.\nAnalyse des besoins fonctionnels : liste détaillée des processus à couvrir (gestion commerciale, production, stocks, achats, CRM, qualité, maintenance, etc.).\nSpécifications techniques : choix des technologies (Odoo, Dolibarr, ERPNext, sur-mesure), architecture, intégrations attendues (site e-commerce, marketplace, API, IoT…).\nGestion des droits et des accès : définition des rôles utilisateurs et des niveaux de confidentialité.\nContraintes et exigences spécifiques : multilingue, mobilité, conformité ISO, reporting, automatisations, sécurité, RGPD.\nPlanning prévisionnel : jalons, phases de recette, formations, mise en production.\nLivrables attendus : documentation utilisateur, supports de formation, accès aux environnements de test, modules personnalisés, scripts de migration, tableaux de bord, etc.\nCritères de succès et indicateurs de performance : KPIs, reporting, suivi post-lancement.\nCe cahier des charges est co-rédigé lors d’ateliers avec vos équipes pour garantir qu’il soit clair, opérationnel et adapté à vos besoins réels.\n\nSouhaitez-vous un exemple détaillé pour un secteur ou un processus métier particulier ?",
+    "choices": {
+      "Exemple pour la gestion commerciale": "exemple_gestion_commerciale",
+      "Exemple pour la production industrielle": "exemple_production_industrielle",
+      "Être contacté par un expert": "expert",
+      "En savoir plus sur les livrables": "livrables",
+      "Contacter le support": "contact"
+    }
+  },
+  "exemple_gestion_commerciale": {
+    "message": "Voici un exemple d’éléments à inclure dans un cahier des charges pour la gestion commerciale avec un ERP/CRM Navitrends :\n\nGestion des prospects et clients : centralisation des fiches clients, historique des interactions, segmentation dynamique selon le comportement ou le potentiel (RFM, scoring automatique).\nGestion des opportunités et du pipeline commercial : suivi des leads, qualification, étapes de vente personnalisées, tableaux de bord de conversion et d’objectifs commerciaux.\nAutomatisation des relances et workflows : rappels automatiques sur devis non signés, scénarios de relance personnalisés, notifications pour les commerciaux.\nGestion des devis et commandes : création de devis multi-produits, configurateurs, remises dynamiques, suivi des taux de transformation, génération de documents multilingues et signature électronique intégrée.\nIntégration multicanale : connexion avec emails, SMS, WhatsApp, campagnes marketing, synchronisation avec Google/Outlook, suivi des interactions clients sur tous les canaux.\nReporting et tableaux de bord : KPIs commerciaux, analyse des performances, rentabilité par client, reporting automatisé des ventes et marges.\nGestion des droits d’accès : rôles personnalisés, confidentialité des données, traçabilité des actions des utilisateurs.\nChaque projet est co-construit avec vos équipes pour adapter ces modules à vos processus spécifiques et garantir l’alignement avec vos objectifs métier.\n\nSouhaitez-vous un exemple détaillé pour un autre processus (SAV, facturation, marketing) ou être mis en relation avec un expert ?",
+    "choices": {
+      "Exemple pour le SAV": "exemple_sav",
+      "Exemple pour la facturation": "exemple_facturation",
+      "Contacter un expert": "expert"
+    }
+  },
+  "exemple_sav": {
+    "message": "Voici un exemple de gestion du SAV (Service Après-Vente) dans un projet ERP/CRM avec Navitrends :\n\nHelpdesk / Système de tickets intégré : gestion centralisée des demandes de SAV ou réclamations clients via un module dédié dans le CRM. Chaque ticket est suivi, catégorisé, assigné à un technicien ou un service, avec historique des échanges et notifications automatiques.\nAutomatisation des relances : scénarios personnalisés pour relancer les clients sur les tickets ouverts ou les interventions à planifier, par email, SMS ou notification interne.\nTableaux de bord SAV : suivi en temps réel des indicateurs clés (nombre de tickets, délais de résolution, satisfaction client, causes récurrentes) pour piloter la qualité du service et identifier les axes d’amélioration.\nIntégration multicanale : possibilité de recevoir les demandes par email, téléphone (VOIP), site web ou messagerie, toutes centralisées dans le CRM.\nGestion des interventions : planification des interventions, gestion des pièces détachées, suivi des techniciens et génération de rapports d’intervention si besoin.\nAnalyse des causes et reporting : outils d’analyse (Ishikawa, 5 pourquoi…) pour traiter les réclamations, générer des rapports qualité et mettre en place des actions correctives.\nDocumentation et formation : supports utilisateurs, guides de résolution, vidéos de formation pour les équipes SAV et les clients finaux.\nSouhaitez-vous un exemple détaillé de workflow SAV ou des modèles de tableaux de bord ?",
+    "choices": {
+      "Exemple de workflow SAV": "exemple_workflow_sav",
+      "Modèles de tableaux de bord SAV": "modele_tableaux_bord_sav",
+      "Contacter le support": "contact"
+    }
+  },
+  "exemple_workflow_sav": {
+    "message": "Voici un exemple de workflow SAV (Service Après-Vente) avec un ERP/CRM Navitrends :\n\nCréation du ticket SAV : Le client soumet une demande via email, téléphone, site web ou messagerie. Le ticket est automatiquement créé et centralisé dans le module Helpdesk du CRM.\nQualification et affectation : Le ticket est catégorisé (type de problème, urgence), puis assigné à un technicien ou à un service compétent. Des notifications automatiques sont envoyées aux équipes concernées.\nTraitement et suivi : Le technicien prend en charge la demande, échange avec le client (historique centralisé), planifie une intervention si nécessaire, et renseigne l’avancement dans le système.\nAutomatisation des relances : Si la demande reste ouverte, des relances automatiques sont envoyées au client ou à l’équipe pour garantir le respect des délais de traitement.\nClôture et analyse : Une fois la demande résolue, le ticket est clôturé. Le client peut recevoir une enquête de satisfaction. Les indicateurs clés (nombre de tickets, délais, causes récurrentes) sont suivis via des tableaux de bord dédiés pour améliorer la qualité du service.\nCe workflow est personnalisable selon vos processus métier et peut intégrer des scénarios de relance, des tableaux de bord SAV, et des analyses des causes des incidents (méthode Ishikawa, 5 pourquoi, etc.).\n\nSouhaitez-vous en savoir plus sur l’automatisation des relances, les tableaux de bord SAV ou l’intégration multicanale ?",
+    "choices": {
+      "Automatisation des relances": "automatisation_relances",
+      "Tableaux de bord SAV": "tableaux_bord_sav",
+      "Intégration multicanale": "integration_multicanale",
+      "Contacter le support": "contact"
+    }
+  },
+  "automatisation_relances": {
+    "message": "Navitrends propose de nombreuses fonctionnalités d’automatisation des relances dans ses solutions ERP/CRM :\n\nRelances automatiques sur devis non signés : Des workflows permettent d’envoyer des rappels à fréquence personnalisée jusqu’à validation ou clôture du devis.\nScénarios personnalisés : Vous pouvez configurer des scénarios de relance selon le type de client, le délai ou le canal préféré (email, SMS, notification interne).\nAutomatisation dans le CRM : Il est possible d’automatiser l’envoi d’emails, de rappels, de tâches ou de notifications pour maximiser l’efficacité de votre équipe commerciale.\nRelances post-vente et fidélisation : Les relances peuvent aussi être automatisées après la vente pour les enquêtes de satisfaction ou les offres personnalisées.\nReporting et suivi : Toutes les relances et leur efficacité sont suivies dans des tableaux de bord dédiés pour piloter la performance commerciale et SAV.\nSouhaitez-vous des exemples de scénarios de relance ou de paramétrage ?",
+    "choices": {
+      "Exemple de scénario de relance": "exemple_scenario_relance",
+      "En savoir plus sur le paramétrage": "parametrage",
+      "Contacter le support Navitrends": "contact"
+    }
+  },
+  "exemple_scenario_relance": {
+    "message": "Voici un exemple de scénario de relance automatisée avec les solutions ERP/CRM Navitrends :\n\nDéclencheur : Un devis reste non signé après X jours.\nAction automatique : Le système envoie un email de rappel personnalisé au client, puis, si besoin, un SMS ou une notification interne à l’équipe commerciale.\nFréquence : Les rappels sont programmés à intervalles personnalisés (ex : J+3, J+7, J+14) jusqu’à validation ou clôture du devis.\nScénarios avancés : Possibilité d’adapter le canal (email, SMS, notification), le contenu du message ou la relance selon le type de client, le montant ou l’historique des interactions.\nSuivi : Toutes les relances et leurs résultats sont tracés dans le CRM, avec reporting sur les taux de transformation et alertes pour les commerciaux si aucune réponse n’est reçue.\nVous souhaitez un exemple pour un autre type de relance (impayés, SAV, fidélisation) ?",
+    "choices": {
+      "Exemple de relance impayé": "exemple_relance_impaye",
+      "Exemple de relance SAV": "exemple_relance_sav",
+      "Contacter le support": "contact"
+    }
+  },
+  "exemple_relance_impaye": {
+    "message": "Voici un exemple de scénario de relance pour impayé avec les solutions ERP/CRM Navitrends :\n\nDéclencheur : Une facture reste impayée après X jours.\nActions automatiques :\nEnvoi d’un email de rappel personnalisé au client.\nSi l’impayé persiste, envoi d’un SMS ou d’une notification interne à l’équipe de gestion.\nPossibilité d’escalader la relance selon le montant ou l’ancienneté (ex : relance téléphonique, courrier recommandé).\nFréquence : Les rappels sont programmés à intervalles personnalisés (ex : J+7, J+15, J+30) jusqu’à régularisation ou transmission au service contentieux.\nPersonnalisation : Le contenu, le canal et la fréquence des relances peuvent être adaptés selon le type de client ou le montant dû.\nSuivi : Toutes les relances et leur statut sont tracés dans le CRM, avec reporting sur les paiements récupérés et alertes pour l’équipe si aucune réponse n’est reçue.\nSouhaitez-vous un exemple de message de relance ou des conseils pour la configuration des scénarios ?",
+    "choices": {
+      "Exemple de message de relance": "exemple_message_relance",
+      "Conseils de configuration": "conseils_configuration",
+      "Contacter le support": "contact"
+    }
+  },
+  "exemple_message_relance": {
+    "message": "Voici un exemple de message de relance pour impayé que vous pouvez automatiser dans votre ERP/CRM Navitrends :\n\nBonjour,\n\nNous vous rappelons que la facture n°[Référence] d’un montant de [Montant] € arrivée à échéance le [Date d’échéance] reste à ce jour impayée.\nNous vous remercions de bien vouloir procéder à son règlement dans les plus brefs délais ou de nous contacter en cas de difficulté.\n\nCordialement,\n[L’équipe Comptabilité / Votre société]\n\nCe message peut être personnalisé selon le type de client, le montant ou le canal d’envoi (email, SMS, notification interne). L’ensemble des relances et de leur statut sont tracés dans le CRM pour un suivi optimal.\n\nSouhaitez-vous un exemple pour un autre type de relance ou des conseils sur la configuration des scénarios automatiques ?",
+    "choices": {
+      "Exemple de relance SAV": "exemple_relance_sav",
+      "Configurer un scénario automatique": "configurer_scenario_automatique",
+      "Contacter le support": "contact"
+    }
+  },
+  "configurer_scenario_automatique": {
+    "message": "Voici comment configurer un scénario automatique dans votre ERP/CRM Navitrends :\n\nDéfinition du déclencheur : Choisissez l’événement qui lancera l’automatisation (ex : devis non signé après X jours, facture impayée, dépassement de stock, etc.).\nParamétrage de l’action : Définissez les actions à automatiser : envoi d’email ou SMS, création de tâche, notification interne, relance client, génération d’alerte, etc..\nPersonnalisation des règles : Adaptez la fréquence, le contenu du message, le canal (email, SMS, notification), et les conditions selon le type de client, le montant, ou l’historique.\nSuivi et reporting : Toutes les actions et leur efficacité sont tracées dans le CRM/ERP, avec des tableaux de bord pour piloter la performance et ajuster les scénarios si besoin.\nAccompagnement : L’équipe Navitrends vous accompagne dans la configuration, la personnalisation des workflows et la formation de vos équipes pour garantir l’efficacité des automatisations.\nPour une configuration avancée ou un accompagnement personnalisé, n’hésitez pas à contacter notre support à support@navitrends.com ou au +33 1 23 45 67 89.",
+    "choices": {
+      "Exemple de scénario de relance": "exemple_scenario_relance",
+      "Contacter le support": "contact",
+      "En savoir plus sur les automatisations": "en_savoir_plus_automatisations"
+    }
+  },
+  "ia": {
+    "message": "<strong>Navitrends propose une large gamme d’outils d’intelligence artificielle et d’automatisation</strong> pour optimiser vos processus métiers, marketing et relation client. Voici un aperçu des principales possibilités :\n\n<strong>Automatisation marketing</strong> : campagnes multicanales (email, SMS, WhatsApp), relances automatiques, nurturing, reporting dynamique, analyse prédictive des performances et recommandations automatiques.\n\n<strong>Création de contenu assistée par IA</strong> : génération de textes (articles, emails, scripts vidéo, slogans), images (DALL·E, Midjourney), vidéos, contenus multilingues et newsletters personnalisées.\n\n<strong>Gestion et qualification des leads</strong> : scoring automatique, segmentation intelligente, priorisation, détection des leads frauduleux ou spam, automatisation des relances et suivi du cycle de vente.\n\n<strong>Chatbots et assistants vocaux</strong> : intégration de chatbots intelligents, assistants vocaux pour l’interaction client, personnalisation des réponses, automatisation du support et de la prospection.\n\n<strong>Veille concurrentielle et analyse de sentiment</strong> : outils de veille automatisée, analyse des commentaires clients, détection des tendances et alertes sur les mouvements du marché.\n\n<strong>Automatisation des réseaux sociaux</strong> : programmation des publications, réponses automatiques, optimisation de l’engagement et analyse des interactions.\n\n<strong>Reconnaissance vocale et d’images</strong>.",
+    "choices": {
+      "Savoir plus sur l’automatisation marketing": "automatisation_marketing",
+      "Découvrir les chatbots IA": "chatbots_ia",
+      "Obtenir un audit IA": "audit_ia",
+      "Contacter le support": "contact"
+    }
+  },
+  "automatisation_marketing": {
+    "message": "En savoir plus sur l’automatisation marketing\n\nNavitrends propose un support technique complet et des services de maintenance adaptés à vos besoins :\n\nCampagnes multicanales automatisées : gestion des emails, SMS, WhatsApp, relances automatiques, nurturing, et scénarios personnalisés selon le comportement client.\nSegmentation et ciblage avancés : création d’audiences personnalisées, scoring automatique des leads, segmentation dynamique, et attribution intelligente pour maximiser la conversion.\nCréation de contenu assistée par IA : génération de textes, images, vidéos, newsletters personnalisées, et scripts publicitaires adaptés à vos audiences.\nAutomatisation du reporting : dashboards dynamiques, suivi en temps réel des KPIs (taux de clic, conversion, ROI, etc.), et reporting détaillé pour piloter vos campagnes.\nIntégration CRM/ERP : synchronisation des données marketing et ventes, suivi du cycle de vie client, automatisation des relances post-vente et enquêtes de satisfaction.\nGestion des réseaux sociaux : planification des publications, réponses automatiques, analyse des interactions et veille concurrentielle automatisée.\nRespect RGPD et sécurité : gestion du consentement, anonymisation des données, et conformité réglementaire assurée dans toutes les automatisations.",
+    "choices": {
+      "Contacter un support": "contact"
+    }
+  },
+   "mobile": {
+    "message": "Navitrends propose un service complet de développement d’applications mobiles sur mesure, adaptées à vos besoins métiers et à votre secteur d’activité. Voici les points clés :\n\n- **Technologies** : développement natif, Flutter ou React Native pour une application Android/iOS unique ou dédiée.\n- **Accompagnement** : ateliers de cadrage pour définir les fonctionnalités, design UI/UX personnalisé, validation des maquettes avant développement.\n- **Fonctionnalités avancées** : notifications push, paiement intégré (Stripe, PayPal, Apple Pay…), gestion multilingue, profils utilisateurs, accès sécurisé (mot de passe, biométrie), back-office d’administration, synchronisation avec site web ou ERP, statistiques d’utilisation, fonctionnement hors connexion.\n- **Publication & support** : accompagnement pour la publication sur App Store et Google Play, maintenance évolutive, support technique, sauvegarde et récupération des données, tests multi-appareils.\n- **Confidentialité & sécurité** : respect des normes RGPD, chiffrement des données, tests de sécurité, gestion fine des accès.\n- **Livrables** : code source, documentation technique, kit graphique pour les stores, version de démonstration possible.\n\nVous bénéficiez d’un suivi projet collaboratif, de réunions régulières, et d’une grande flexibilité pour faire évoluer votre application selon vos besoins.\n\nSouhaitez-vous :",
+    "choices": {
+      "Demander un devis pour une application mobile": "demander_devis_mobile",
+      "En savoir plus sur les technologies utilisées": "technologies_utilisees_mobile",
+      "Voir la documentation technique": "documentation_technique_mobile",
+      "Contacter le support Navitrends": "contact"
+    }
+  },
+    "demander_devis_mobile": {
+    "message": "Pour obtenir un devis pour une application mobile sur mesure, Navitrends vous accompagne dès la définition de votre projet :\n\n- **Ateliers de cadrage** pour identifier vos besoins\n- **Choix des technologies** (Flutter, React Native ou natif)\n- **Design UI/UX personnalisé**\n- **Fonctionnalités avancées** (notifications push, paiement, multilingue, back-office, connexion à ERP ou site web, etc.)\n- **Publication sur les stores**\n- **Support complet** tout au long du projet\n\nAfin de vous proposer un devis précis, il est recommandé de préparer :\n\n- Une description de votre projet et de ses objectifs\n- Les fonctionnalités souhaitées (ex : paiement, notifications, profils utilisateurs…)\n- Les plateformes ciblées (Android, iOS ou les deux)\n- Vos éventuelles contraintes de délai ou de budget\n\nNavitrends organise des ateliers pour clarifier vos besoins et vous accompagne dans la rédaction du cahier des charges si besoin.",
+    "choices": {
+      "Voir les étapes d’un projet mobile": "etapes_projet_mobile",
+      "Découvrir les technologies utilisées": "technologies_utilisees_mobile",
+      "en savoir plus sur_l'accompagnement": "en_savoir_plus_sur_l_accompagnement",
+      "En savoir plus sur l’accompagnement et contacter un support": "contact"
+    }
+  },
+  "en_savoir_plus_sur_l_accompagnement": {
+    "message": "En savoir plus sur l’accompagnement\n\nNavitrends propose un accompagnement complet et personnalisé tout au long de votre projet digital :\n\n- **Phase de cadrage** : ateliers approfondis pour analyser vos besoins, simuler des cas d’usage et co-construire un cahier des charges technique et fonctionnel.\n- **Méthodologie agile** : gestion en sprints, livrables intermédiaires, points de validation réguliers et ajustements selon vos retours.\n- **Formation et documentation** : supports adaptés à chaque profil utilisateur, guides vidéo, accès à un environnement de test, documentation utilisateur et technique.\n- **Déploiement et recette** : phase de tests complète avant la mise en production pour valider ensemble le bon fonctionnement du système.\n- **Support post-lancement** : accompagnement de 3 à 12 mois selon le projet, hotline, ticketing, maintenance corrective et évolutive, suivi de performance et évolution continue.\n- **Conduite du changement** : aide à l’adhésion des équipes, anticipation des résistances et formation continue pour garantir la réussite de la transition digitale.\n- **Accompagnement stratégique** : feuille de route digitale, conseils sur la transformation numérique et adaptation à vos enjeux métier.\n\nCet accompagnement s’adresse aussi bien aux équipes techniques qu’aux utilisateurs métiers, et s’adapte à tous les secteurs (industrie, services, e-commerce, ONG, PME, etc.).\n\nSouhaitez-vous :",
+    "choices": {
+      "Contacter le support Navitrends": "contact"
+    }
+  },
+  "technologies_utilisees_mobile": {
+    "message": "Navitrends utilise principalement trois technologies pour le développement d’applications mobiles : **Flutter, React Native et le développement natif (Android/iOS)**. Le choix dépend de vos besoins :\n\n- **Flutter et React Native** permettent de créer une seule base de code pour Android et iOS, ce qui optimise les coûts et les délais tout en assurant une expérience utilisateur fluide et performante.\n- Le **développement natif** est privilégié pour des besoins très spécifiques ou des fonctionnalités avancées propres à une plateforme.\n- Navitrends accompagne également la publication sur les stores, l’intégration de fonctionnalités avancées (notifications push, paiement, multilingue, back-office, connexion à un site web ou ERP), la sécurité (chiffrement, authentification forte), la maintenance, et propose des tests multi-appareils pour garantir la qualité de l’application.\n\nSouhaitez-vous :",
+    "choices": {
+      "Voir des exemples de fonctionnalités": "exemples_fonctionnalites",
+      "En savoir plus sur la sécurité mobile": "securite_applications_mobiles",
+      "Demander un devis personnalisé": "demander_devis_mobile",
+      "Contactez le support": "contact"
+    }
+  },
+"exemples_fonctionnalites": {
+    "message": "Voici quelques exemples de fonctionnalités que Navitrends peut intégrer dans une application mobile :\n\n- **Authentification sécurisée** (mot de passe, biométrie) et gestion de profils utilisateurs avec rôles différenciés\n- **Notifications push** pour engager vos utilisateurs\n- **Paiement intégré** (Stripe, PayPal, Apple Pay, etc.)\n- **Fonctionnement hors connexion** pour certaines fonctionnalités clés\n- **Back-office d’administration** pour gérer les contenus et utilisateurs\n- **Version multilingue** et personnalisation de l’interface selon le profil\n- **Statistiques d’utilisation** (Firebase, Google Analytics)\n- **Intégration avec un site web, un ERP ou d’autres systèmes via API**\n- **Sauvegarde et récupération des données, synchronisation multi-appareils**\n- **Géolocalisation, restrictions d’accès par zone, gestion des abonnements**\n- **Intégration de vidéos, fichiers à télécharger, chat in-app, partages sociaux**\n- **Tests multi-appareils, accompagnement pour la publication sur App Store/Google Play**\n- **Possibilité d’ajouter des publicités, de limiter l’accès à certaines fonctions par abonnement ou rôle, et d’obtenir un suivi des bugs/suggestions utilisateurs**\n\nToutes ces fonctionnalités sont personnalisables selon vos besoins métiers et votre secteur d’activité.",
+    "choices": {
+      "Souhaitez-vous :": {
+        "Voir la checklist projet mobile": "checklist_projet_mobile",
+        "En savoir plus sur la sécurité mobile": "securite_applications_mobiles",
+        "Contacter un support": "contact"
+      }
+    },
+  "securite_applications_mobiles": {
+    "message": "Navitrends accorde une grande importance à la sécurité des applications mobiles :\n\n- **Chiffrement des données sensibles** pour protéger les informations utilisateurs.\n- **Protection des API** : sécurisation des échanges entre l’application et les serveurs.\n- **Tests de sécurité** réalisés avant la mise en production pour détecter d’éventuelles failles.\n- **Authentification avancée** : possibilité d’intégrer des systèmes de connexion par mot de passe ou biométrie.\n- **Respect des normes RGPD** et confidentialité des données, avec contrôle des accès et gestion des rôles utilisateurs.\n- **Sauvegarde et récupération des données** incluses dans les pratiques standard.\n- **Maintenance et mises à jour régulières** pour garantir la sécurité dans la durée.",
+    "choices": {
+      "Voir la documentation technique mobile": "documentation_technique_mobile"
+    }
+  },
+  "documentation_technique_mobile": {
+    "message": "Navitrends remet une documentation technique complète pour chaque projet d’application mobile, couvrant :\n\n- **L’architecture de l’application** (Flutter, React Native ou natif)\n- **Les fonctionnalités intégrées** (API, sécurité, gestion des profils, notifications, paiement, multilingue…)\n- **Les procédures de déploiement, publication sur les stores, et gestion des mises à jour**\n- **Les guides d’intégration** (connexion à un ERP, site web, etc.)\n- **Les bonnes pratiques de sécurité** (chiffrement, authentification forte, RGPD)\n- **Les modalités de tests, maintenance, sauvegarde et récupération des données**\n- **Les accès au back-office, gestion des rôles et droits utilisateurs**\n- **Les outils de suivi des bugs et suggestions**\n\nCette documentation est remise en fin de projet et adaptée à votre solution, avec possibilité d’organiser des ateliers de prise en main et de fournir des supports vidéo ou guides utilisateurs complémentaires.\n\nPour aller plus loin :",
+    "choices": {
+      "Contacter le support": "contact"
+    }
+  },
+  "etapes_projet_mobile": {
+    "message": "Voici les principales étapes d’un projet d’application mobile avec Navitrends :\n\n- **Atelier de cadrage** : définition de vos besoins, choix des fonctionnalités, priorisation du MVP, et validation du cahier des charges avec nos experts.\n- **Design UI/UX** : création de maquettes personnalisées par nos designers, avec validation par vos soins avant le développement.\n- **Développement** : réalisation technique en Flutter, React Native ou natif selon vos objectifs, avec des livrables intermédiaires et des versions de test régulières (APK/TestFlight) pour recueillir vos retours.\n- **Tests et ajustements** : phase de tests multi-appareils, organisation de tests utilisateurs, corrections et évolutions dans une logique agile.\n- **Publication** : accompagnement pour la publication sur App Store et Google Play, gestion des visuels, description et conformité aux guidelines des stores.\n- **Formation et documentation** : remise d’une documentation technique et, si besoin, formation à l’utilisation ou à l’administration du back-office.\n- **Support & maintenance** : forfaits de maintenance, mises à jour, support technique, suivi des statistiques d’utilisation et accompagnement post-lancement.\n\nTout au long du projet, vous bénéficiez d’un suivi collaboratif, de points réguliers et de la possibilité d’ajuster les fonctionnalités selon l’évolution de vos besoins.\n\nSouhaitez-vous :",
+    "choices": {
+      "Voir la checklist projet mobile": "checklist_projet_mobile",
+      "En savoir plus sur le design UI/UX": "design_ui_ux",
+      "Contactez le support Navitrends": "contact"
+    }
+  },
+  "checklist_projet_mobile": {
+    "message": "Voici la checklist des étapes clés pour un projet d’application mobile avec Navitrends :\n\n- **Atelier de cadrage** : définition de vos besoins, choix des fonctionnalités, priorisation du MVP, validation du cahier des charges avec les experts Navitrends.\n- **Design UI/UX** : création de maquettes personnalisées, validation avec vous avant tout développement.\n- **Développement** : réalisation technique (Flutter, React Native ou natif), livrables intermédiaires, versions de test régulières (APK/TestFlight) pour recueillir vos retours.\n- **Tests et ajustements** : tests multi-appareils, organisation de tests utilisateurs, corrections et évolutions dans une logique agile.\n- **Sécurité** : chiffrement des données, protection des API, authentification forte, conformité RGPD, tests de sécurité avant mise en production.\n- **Publication** : accompagnement pour la publication sur App Store et Google Play, gestion des visuels et conformité aux guidelines des stores.\n- **Documentation & formation** : remise d’une documentation technique complète, guides utilisateurs, supports vidéo, ateliers de prise en main.\n- **Maintenance & support** : contrat de maintenance, hotline, ticketing, mises à jour, sauvegarde et récupération des données, accompagnement post-lancement.\n\nSouhaitez-vous :",
+    "choices": {
+      "Contacter le support": "contact",
+      "En savoir plus sur la maintenance": "en_savoir_plus_maintenance"
+    }
+  },
+  "design_ui_ux": {
+    "message": "Navitrends accorde une importance centrale au design UI/UX pour garantir une expérience utilisateur optimale et une identité visuelle fidèle à votre marque. Voici les points clés de leur approche :\n\n- **Ateliers de cadrage et brainstorming** : Navitrends organise des ateliers pour bien comprendre vos besoins, définir les usages et co-construire le cahier des charges. Cette étape permet de s’assurer que le design reflète parfaitement votre image et vos attentes.\n- **Maquettes personnalisées** : Des UI/UX designers conçoivent des maquettes sur Figma ou Adobe XD, soumises à validation avant tout développement. Plusieurs allers-retours sont possibles jusqu’à votre entière satisfaction.\n- **Respect de la charte graphique et accessibilité** : Les couleurs, polices et éléments graphiques sont adaptés à votre charte ou créés sur mesure. Les normes d’accessibilité (WCAG) sont systématiquement respectées pour garantir un accès optimal à tous les utilisateurs.\n- **Expérience utilisateur (UX)** : L’ergonomie, la clarté des contenus, la rapidité et la navigation intuitive sont au cœur de la démarche. Navitrends privilégie une approche sur-mesure, mais peut aussi adapter des templates personnalisables selon le budget.\n- **Validation et évolutivité** : Vous validez chaque étape du design. Les solutions sont pensées pour être évolutives et adaptables à vos futurs besoins, que ce soit pour un site web ou une application mobile.\n- **Tests utilisateurs et accompagnement** : Possibilité d’organiser des tests utilisateurs avant le lancement et de bénéficier d’un accompagnement post-livraison pour ajuster ou faire évoluer l’interface.",
+    "choices": {
+      "En savoir plus sur l’accessibilité": "en_savoir_plus_sur_l_accessibilite",
+      "En savoir plus sur la conformité RGPD": "en_savoir_plus_rgpd",
+      "Contacter le support": "contact"
+    }
+  },
+  "en_savoir_plus_sur_l_accessibilite": {
+    "message": "Navitrends accorde une grande importance à l’accessibilité de ses sites web et applications. Toutes les réalisations respectent les standards d’accessibilité web (WCAG) afin de garantir un accès optimal aux personnes en situation de handicap. Cela inclut :\n\n- **L’application systématique des normes WCAG** lors du développement\n- **Un design pensé pour la lisibilité, la navigation intuitive et l’ergonomie, validé avec vous avant toute mise en ligne**\n- **L’adaptation des couleurs, polices et éléments graphiques à votre charte ou sur mesure**\n- **Des allers-retours de validation jusqu’à satisfaction complète**\n\nCette démarche vise à offrir une expérience utilisateur inclusive, quel que soit le profil ou le support utilisé (ordinateur, mobile, tablette).",
+    "choices": {
+      "Contacter un support": "contact",
+      "En savoir plus sur la conformité RGPD": "en_savoir_plus_rgpd"
+    }
+  },
+  "marketing": {
+    "message": "Nos services de marketing digital incluent :\n\n- Google/Meta Ads\n- Création de contenus\n- Campagnes email, etc."
+  },
+  "contact": {
+    "message": "Vous pouvez nous contacter à contact@navitrends.com ou via notre formulaire en ligne."
+  },
+  "aider": {
+    "message": "Voici comment Navitrends vous accompagne pour l’intégration de votre ERP :\n\n<strong>Démarrage du projet</strong> : analyse approfondie de vos besoins, ateliers fonctionnels, rédaction collaborative du cahier des charges.\n<strong>Déploiement structuré</strong> : paramétrage, personnalisation, migration de données, formation des utilisateurs, mise en production et support post-lancement.\n<strong>Livrables</strong> : planning, documentation utilisateur, vidéos de formation, accès aux environnements de test.\n<strong>Formation</strong> : sessions adaptées à chaque profil, en présentiel ou à distance, avec supports personnalisés.\n<strong>Support et maintenance</strong> : assistance utilisateur, maintenance corrective et évolutive, monitoring, accompagnement 3 à 12 mois après le lancement.\n<strong>Méthodologie agile</strong> : gestion en sprints, démos régulières pour ajuster la solution à vos besoins.\n<strong>Reprise de projet</strong> : audit, récupération des données et continuité si votre projet a été commencé ailleurs.\nPour toute demande spécifique ou pour démarrer un accompagnement personnalisé, notre équipe est à votre disposition.",
+    "choices": {
+      "Demander un audit technique": "audit_technique",
+      "En savoir plus sur la formation ERP": "formation_erp",
+      "Contacter le support": "contact",
+      "Centre d’aide Navitrends": "centre_aide"
+    }
+  },
+  "chatbots_ia": {
+    "message": "Découvrir les chatbots IA\n\nNavitrends propose des chatbots IA intelligents capables de comprendre les demandes, de répondre naturellement et d’orienter les prospects ou clients. Ces chatbots sont personnalisables selon vos produits, services et langage métier, et peuvent être intégrés à vos sites web ou pages de campagne pour qualifier les visiteurs en temps réel.\n\n<strong>Principales fonctionnalités :</strong>\n\n- Compréhension du langage naturel pour des échanges fluides avec les utilisateurs.\n- Personnalisation des réponses selon votre secteur d’activité et vos besoins spécifiques.\n- Automatisation de la qualification des leads et du support client 24/7.\n- Intégration possible avec vos CRM et outils métiers via API.\n- Sécurité et confidentialité des données respectées selon les normes en vigueur.\n\n<strong>Valeur ajoutée :</strong>\n\n- Gain de temps pour vos équipes.\n- Amélioration de l’expérience utilisateur et de la réactivité.\n- Suivi et reporting des interactions pour optimiser vos processus commerciaux.\n\nSouhaitez-vous en savoir plus sur l’intégration d’un chatbot IA à votre site, ou sur la personnalisation des scénarios de réponse ?",
+    "choices": {
+      "En savoir plus sur l’intégration chatbot": "integration_chatbot",
+      "Contacter un support": "contact"
+    }
+  },
+  "integration_chatbot": {
+    "message": "En savoir plus sur l’intégration chatbot\n\nNavitrends propose l’intégration de chatbots IA intelligents, capables de comprendre les demandes, de répondre naturellement et d’orienter les prospects ou clients. Ces chatbots sont personnalisables selon vos produits, services et langage métier, et peuvent être intégrés à vos sites web ou applications. L’intégration se fait sur mesure, avec possibilité de connecter le chatbot à vos outils métiers ou CRM via API pour enrichir la qualification, le scoring et le suivi client.\n\n<strong>Principales caractéristiques :</strong>\n\n- Compréhension du langage naturel pour des échanges fluides.\n- Personnalisation des réponses selon votre secteur et vos besoins.\n- Automatisation de la qualification des leads et du support client 24/7.\n- Sécurité et confidentialité des données respectées selon les normes en vigueur.\n- Intégration possible avec vos outils existants (CRM, ERP, etc.) via API.\n\n<strong>Valeur ajoutée :</strong>\n\n- Gain de temps pour vos équipes.\n- Amélioration de l’expérience utilisateur et de la réactivité.\n- Suivi et reporting des interactions pour optimiser vos processus commerciaux.\nSouhaitez-vous des détails sur l’intégration technique, la personnalisation, ou un exemple d’utilisation ?",
+    "choices": {
+      "Détails techniques": "details_techniques"
+    }
+  },
+  "details_techniques": {
+    "message": "Détails techniques\n\nVoici un aperçu des principaux détails techniques des solutions Navitrends :\n\n<strong>Technologies utilisées</strong> : Développement sur mesure avec Python (Odoo/ERPNext), PHP (Dolibarr), JavaScript (fronts réactifs), Flutter, React Native ou natif pour le mobile. Les solutions sont modulaires, évolutives et responsives, avec gestion multilingue et API REST pour les intégrations externes.\n<strong>Sécurité</strong> : Authentification à deux facteurs, contrôle d’accès par rôles, chiffrement des données sensibles, tests de sécurité, conformité RGPD, hébergement sécurisé, sauvegardes automatiques et cryptage des communications.\n<strong>Fonctionnalités avancées</strong> :\n- Gestion multi-entités, multi-entrepôts, multi-sociétés.\n- Modules métiers pour production, stocks, achats, ventes, qualité ISO, maintenance (GMAO), traçabilité, planification, gestion documentaire, reporting financier, gestion de projet, automatisations et alertes personnalisées.\n- Intégration IoT (capteurs, caméras, automates), synchronisation e-commerce, connecteurs marketplaces, gestion des flux B2B/B2C, compatibilité avec scanners code-barres et imprimantes d’étiquettes.\n- Business Intelligence : Tableaux de bord personnalisés, KPIs en temps réel, reporting dynamique, suivi des performances commerciales et industrielles.\n<strong>Support et documentation</strong> : Documentation technique fournie en fin de projet, support technique, maintenance corrective/évolutive, monitoring, hotline et formation adaptée à chaque profil utilisateur.\nSouhaitez-vous des précisions sur un aspect technique particulier (sécurité, intégration, mobile, IoT, etc.) ?",
+    "choices": {
+      "En savoir plus sur la sécurité": "en_savoir_plus_securite",
+      "Intégration IoT/industrie": "integration_iot_industrie",
+      "Support technique & maintenance": "support_technique_maintenance",
+      "Obtenir un audit technique": "audit_technique"
+    }
+  },
+  "integration_iot_industrie": {
+    "message": "Navitrends accompagne les industriels dans l’intégration de solutions IoT et la digitalisation des processus de production. Voici ce que nous proposons :\n\nConnexion des objets industriels (machines, capteurs, automates) à l’ERP : développement de modules ou intergiciels pour relier vos équipements industriels à des ERP comme Odoo ou ERPNext, permettant la collecte et l’analyse de données en temps réel.\nContrôle qualité automatisé : intégration de systèmes embarqués (caméras, capteurs) et d’intelligence artificielle pour automatiser le contrôle qualité sur les lignes de production, avec déclenchement d’actions automatiques dans l’ERP.\nDashboards de performance et suivi atelier : développement de tableaux de bord personnalisés pour suivre la production (TRS, cadence, pannes, qualité), la traçabilité des lots, la maintenance préventive et curative (GMAO), et la gestion des non-conformités.\nAutomatisation et alertes : création de workflows et d’alertes automatiques selon des événements industriels (seuils, incidents, maintenance, écarts de production).\nAccompagnement sectoriel : expérience dans l’industrie textile, agroalimentaire, électronique, mécanique, avec adaptation aux normes ISO, HACCP, et exigences spécifiques.\nSécurité et conformité : gestion des accès, sauvegardes, cryptage, conformité RGPD et sectorielle.\nNous proposons également un accompagnement complet : ateliers de cadrage, rédaction du cahier des charges, formations, support post-lancement et innovation continue (R&D, IA industrielle).\n\nN’hésitez pas à demander une étude personnalisée ou à poser une question sur un cas d’usage précis (ex : maintenance prédictive, traçabilité, automatisation de production, etc.).",
+    "choices": {
+      "Voir les dashboards industriels": "dashboards_industriels",
+      "Découvrir le contrôle qualité connecté": "controle_qualite_connecte",
+      "Contacter un support": "contact"
+    }
+  },
+   "dashboards_industriels": {
+    "message": "Navitrends propose des **dashboards industriels personnalisés** intégrés à votre ERP (Odoo, ERPNext, Dolibarr ou sur-mesure) pour piloter la performance de vos ateliers et de votre production en temps réel.\nVoici ce que vous pouvez suivre et visualiser :\n\n- **Indicateurs clés de production** : TRS, cadence, pannes, qualité, arrêts machine, suivi des ordres de fabrication et des non-conformités.\n- **Tableaux de bord multi-métiers** : chaque service (production, qualité, maintenance, logistique, direction) dispose de ses propres KPIs et vues personnalisées.\n- **Alertes et automatisations** : déclenchement d’alertes en temps réel sur les écarts de production, la maintenance préventive, la qualité ou les stocks.\n- **Visualisation avancée** : vues Gantt, Kanban, calendriers, graphiques dynamiques, accès web et mobile.\n- **Intégration IoT & vision industrielle** : connexion possible avec capteurs, automates, caméras pour un suivi automatisé et des décisions en temps réel.\n- **Reporting & export** : génération de rapports automatiques, exports multi-formats, accès sécurisé et gestion fine des droits utilisateurs.\n\nNos solutions sont évolutives, adaptées à chaque secteur industriel et peuvent être enrichies de modules BI, maintenance (GMAO), traçabilité, conformité ISO, etc.\n\nN’hésitez pas à demander une démo ou à consulter la documentation détaillée pour découvrir les cas d’usage concrets.",
+    "choices": {
+      "Contacter le support": "contact"
+    }
+  },
+  "support_technique_maintenance": {
+    "message": "Support technique & maintenance\n\nNavitrends propose un support technique complet et des services de maintenance adaptés à vos besoins :\n\nSupport technique continu : Assistance technique, mises à jour régulières et optimisation pour les solutions livrées, notamment les outils d’IA et applications métier.\nHelpdesk, chat et ticketing : Accès à un helpdesk réactif, système de tickets et interventions à distance immédiates pour une résolution rapide des incidents.\nMaintenance corrective et évolutive : Après la mise en production, Navitrends assure la maintenance corrective, évolutive, l’assistance utilisateur et le monitoring pour garantir la continuité de service.\nGestion de la maintenance industrielle : Modules GMAO intégrés à l’ERP pour la maintenance préventive et curative, planification, alertes, ordres d’intervention et historiques des pannes.\nSécurité et confidentialité : Authentification à deux facteurs, contrôle d’accès, sauvegardes automatiques, cryptage des communications et conformité RGPD.\nSupport utilisateur final : Selon la formule choisie, un support technique peut être inclus pour les utilisateurs finaux des applications ou solutions livrées.\nSouhaitez-vous plus de détails sur un type de maintenance, un outil ou une assistance spécifique ?",
+    "choices": {
+      "En savoir plus sur la maintenance ERP/CRM": "erp",
+      "Contacter le support": "contact"
+    }
+  }, 
+  "modules_métiers": {
+    "message": "Voici un aperçu des principaux modules métiers ERP proposés par Navitrends :\n\n<strong>Production & GPAO</strong> : gestion des ordres de fabrication, gammes opératoires, planification avancée, suivi atelier, gestion des nomenclatures multi-niveaux, simulation de charge machine, gestion des arrêts et maintenance (GMAO), traçabilité complète des lots et séries.\n<strong>Stocks & Logistique</strong> : gestion multi-entrepôts, flux inter-sites, inventaires, codes-barres, automatisation des transferts, gestion des sous-traitants, dropshipping, intégration e-commerce (WooCommerce, Shopify, Prestashop).\n<strong>Achats & Ventes</strong> : gestion des devis complexes, commandes, relances automatiques, workflow de validation, gestion des promotions, suivi des marges, intégration marketplace (Amazon, Cdiscount).\n<strong>Qualité & ISO</strong> : gestion des contrôles qualité, audits internes, non-conformités, plans d’actions, archivage des preuves, conformité aux normes ISO (9001, 14001…).\n<strong>Maintenance</strong> : plannings, alertes d’usure, ordres d’intervention, historique des pannes et pièces changées, maintenance préventive et curative, intégration IoT et capteurs industriels.\n<strong>CRM & Relation client</strong> : gestion des leads, scoring, pipelines de vente, helpdesk/SAV, segmentation clients, automatisations marketing, synchronisation agenda, intégration campagnes Ads, suivi des interactions multicanal (email, SMS, WhatsApp, réseaux sociaux).\n<strong>RH & Gestion des temps</strong> : badgeuse, pointage mobile, gestion des absences, plannings, gestion des droits utilisateurs.\n<strong>Business Intelligence (BI)</strong> : tableaux de bord personnalisés, KPIs en temps réel, reporting financier, analyse de performance commerciale et industrielle.\n<strong>Automatisation & API</strong> : alertes personnalisées, workflows, connecteurs API REST, intégration avec outils externes, automatisation des tâches métier.\nChaque module est personnalisable selon vos besoins métier et peut être intégré progressivement dans votre système d’information.",
+    "choices": {
+      "Demander un audit technique": "audit_technique",
+      "Obtenir de l’aide sur l’intégration": "aider",
+      "Contacter le support": "contact"
+    }
+  
+  }
+  }
+
+}

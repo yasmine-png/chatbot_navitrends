@@ -1,0 +1,1048 @@
+Q: Quel type de site me recommandez-vous : vitrine, e-commerce, ou application web ?
+A: Nous vous orientons en fonction de vos objectifs. Un site vitrine pour la présentation, un e-commerce pour vendre en ligne, ou une application web si vous avez besoin d’un outil interactif plus avancé.
+
+Q: Avez-vous des exemples de réalisations similaires à mon secteur d’activité ?
+A: Oui, nous avons un portfolio que nous serons ravis de vous partager, avec des réalisations dans plusieurs secteurs.
+
+Q: Combien de temps faut-il pour développer un site web complet ?
+A: Entre 2 et 12 semaines selon la complexité du projet.
+
+Q: Pouvez-vous m’aider à clarifier mes besoins si je ne sais pas exactement ce que je veux ?
+A: Oui, nous proposons une phase de cadrage avec un brief et des recommandations stratégiques.
+
+Q: Est-ce que vous pouvez refaire mon ancien site ou vaut-il mieux en créer un nouveau ?
+A: Cela dépend de l’état technique de votre site actuel. Nous vous conseillerons objectivement après audit.
+
+Q: Mon site doit-il être multilingue ?
+A: Est-ce que vous le proposez ? Si vous ciblez un public international, c’est recommandé. Nous gérons les versions multilingues.
+
+Q: Comment s’assurer que le site reflète bien l’image de ma marque ?
+A: Nous respectons votre charte graphique et nous validons les maquettes avec vous avant développement.
+
+Q: Est-ce que vous proposez aussi la rédaction de contenu ou dois-je vous fournir les textes ?
+A: Les deux sont possibles. Nous avons des rédacteurs disponibles si vous souhaitez externaliser cette partie.
+
+Q: Proposez-vous des sessions de brainstorming ou des ateliers pour bien définir le projet ?
+A: Oui, c’est une étape essentielle pour nous assurer d’une bonne compréhension de vos attentes.
+
+Q: Est-ce que je pourrais facilement faire évoluer le site plus tard ?
+A: Oui, nos sites sont pensés pour être scalables et adaptables à vos besoins futurs.
+
+Q: Faites-vous des maquettes avant le développement ?
+A: Oui, nous proposons des maquettes Figma ou Adobe XD avant le développement.
+
+Q: Est-ce que je peux valider le design avant que le développement commence ?
+A: Oui, le développement ne commence qu’après validation du design.
+
+Q: Est-ce que mon site sera responsive (mobile-friendly) ?
+A: Absolument, tous nos sites sont adaptés à tous les écrans.
+
+Q: Puis-je choisir les couleurs et les polices ?
+A: Oui, nous suivons votre charte graphique ou vous aidons à en créer une.
+
+Q: Est-ce que vous respectez les normes d’accessibilité web (WCAG) ?
+A: Oui, nous respectons les standards pour un accès optimal aux personnes en situation de handicap.
+
+Q: Que se passe-t-il si je ne suis pas satisfait du design proposé ?
+A: Nous faisons plusieurs allers-retours de validation jusqu’à satisfaction.
+
+Q: Travaillez-vous avec des UI/UX designers ?
+A: Oui, notre équipe intègre des spécialistes en UI/UX.
+
+Q: Peut-on intégrer un chatbot, une carte Google Maps ou un module de réservation ?
+A: Oui, toutes ces fonctionnalités sont disponibles.
+
+Q: Comment garantissez-vous une bonne expérience utilisateur ?
+A: En combinant ergonomie, rapidité, clarté des contenus et navigation intuitive.
+
+Q: Puis-je avoir un site original ou vous utilisez des templates ?
+A: Nous faisons du sur-mesure, mais pouvons utiliser des templates personnalisables si votre budget est limité.
+
+Q: Quelles technologies utilisez-vous (WordPress, Laravel, React, etc.) ?
+A: Nous utilisons WordPress, Laravel, Symfony, Node.js, React, Vue.js selon le besoin.
+
+Q: Est-ce que le site sera optimisé pour la vitesse de chargement ?
+A: Oui, nous optimisons les images, le code et utilisons des outils de cache.
+
+Q: Pouvez-vous intégrer un système de paiement en ligne sécurisé ?
+A: Oui, via Stripe, PayPal, ou des passerelles locales.
+
+Q: Le site sera-t-il compatible avec tous les navigateurs ?
+A: Oui, nous testons sur les principaux navigateurs (Chrome, Firefox, Safari, Edge).
+
+Q: Est-ce que je pourrai ajouter des fonctionnalités plus tard ?
+A: Oui, nos sites sont évolutifs.
+
+Q: Est-ce que vous développez aussi des applications mobiles ?
+A: Oui, en Flutter, React Native ou en natif.
+
+Q: Travaillez-vous en mode agile ou en cascade ?
+A: Nous préférons une approche agile avec des livrables progressifs.
+
+Q: Le site sera-t-il hébergé chez vous ou puis-je choisir un autre hébergeur ?
+A: Nous pouvons proposer l’hébergement ou vous accompagner sur le hôteur de votre choix.
+
+Q: Pouvez-vous m’aider à choisir mon nom de domaine et mon hébergement ?
+A: Oui, nous vous assistons dans ce choix.
+
+Q: Est-ce que vous proposez le développement sur mesure ou vous partez de CMS existants ?
+A: Les deux sont possibles selon votre besoin et votre budget.
+
+Q: Mon site sera-t-il protégé contre les attaques (piratage, injections, etc.) ?
+A: Oui, nous appliquons les bonnes pratiques de sécurité et faisons des tests.
+
+Q: Proposez-vous un certificat SSL (HTTPS) ?
+A: Oui, le SSL est inclus par défaut sur tous nos hébergements.
+
+Q: Est-ce que vous faites des sauvegardes régulières ?
+A: Oui, selon la fréquence souhaitée (quotidienne, hebdomadaire, etc.).
+
+Q: Que se passe-t-il si le site tombe en panne ?
+A: Nous avons un support réactif pour intervenir rapidement.
+
+Q: Comment protégez-vous les données personnelles des utilisateurs (RGPD, etc.) ?
+A: Nous intégrons les obligations RGPD dans chaque projet.
+
+Q: Fournissez-vous un pare-feu ou une protection anti-spam ?
+A: Oui, via des outils comme Wordfence ou reCAPTCHA.
+
+Q: Qui aura accès au code source de mon site ?
+A: Vous en avez la propriété et l’accès complet.
+
+Q: Est-ce que vous signez un contrat de confidentialité ?
+A: Oui, sur simple demande.
+
+Q: Mon site pourra-t-il détecter et bloquer les tentatives de connexion malveillantes ?
+A: Oui, nous mettons en place des systèmes de détection automatique.
+
+Q: Proposez-vous une maintenance de sécurité après livraison ?
+A: Oui, via des contrats de maintenance.
+
+Q: Est-ce que mon site sera bien référencé sur Google ?
+A: Nous faisons les optimisations techniques de base pour le SEO.
+
+Q: Proposez-vous une optimisation SEO technique dès le départ ?
+A: Oui, elle est incluse dans tous nos packs.
+
+Q: Est-ce que je peux vous confier la rédaction SEO de mes pages ?
+A: Oui, nous avons des rédacteurs SEO.
+
+Q: Mon site sera-t-il compatible avec Google Analytics et Google Search Console ?
+A: Oui, et nous vous aidons à les installer.
+
+Q: Est-ce que vous proposez un audit SEO après le lancement ?
+A: Oui, sur demande ou via un forfait mensuel.
+
+Q: Est-ce que le site sera rapide à charger ?
+A: Oui, c’est une priorité dans notre développement.
+
+Q: M’aiderez-vous à indexer mon site sur Google ?
+A: Oui, c’est une étape que nous gérons pour vous.
+
+Q: Puis-je faire du marketing en ligne via le site (newsletter, Google Ads, Facebook Ads) ?
+A: Oui, nous intégrons les outils nécessaires et proposons ce service.
+
+Q: Est-ce que vous pouvez lier mon site à mes réseaux sociaux ?
+A: Oui, les intégrations sociales sont standard.
+
+Q: Proposez-vous un suivi mensuel du trafic et des performances ?
+A: Oui, via Google Analytics et des rapports personnalisés.
+
+Q: Est-ce que je dois développer une application iOS, Android ou les deux ?
+A: Nous vous recommandons de cibler les deux plateformes si votre public est diversifié. Sinon, nous analysons votre audience pour prioritiser.
+
+Q: Quelle est la différence entre une application native, hybride et web ?
+A: Les apps natives sont spécifiques à chaque plateforme, les hybrides fonctionnent sur les deux avec un seul code, et les apps web sont accessibles via navigateur.
+
+Q: Combien de temps faut-il pour développer une application mobile ?
+A: La durée varie de quelques semaines à plusieurs mois selon la complexité et les fonctionnalités.
+
+Q: Quelle technologie utilisez-vous pour développer des apps mobiles ?
+A: Nous utilisons Flutter, React Native ou du développement natif selon les besoins.
+
+Q: Est-ce que je peux avoir une seule application pour Android et iOS ?
+A: Oui, avec Flutter ou React Native, vous avez une seule base de code pour les deux.
+
+Q: Est-ce que je peux tester l’application avant la livraison finale ?
+A: Oui, vous recevrez des versions de test (APK/TestFlight) tout au long du projet.
+
+Q: Puis-je publier l’application moi-même sur App Store et Google Play ?
+A: Oui, mais nous pouvons aussi le faire pour vous.
+
+Q: L’application m’appartient-elle une fois développée ?
+A: Oui, vous obtenez les droits complets sur le code et les livrables.
+
+Q: Est-ce que vous signez un contrat de confidentialité (NDA) ?
+A: Oui, sur demande, pour protéger vos idées.
+
+Q: Est-ce que vous proposez un accompagnement pour définir les fonctionnalités ?
+A: Oui, nous organisons des ateliers de cadrage pour définir ensemble le MVP et les priorités.
+
+Q: Comment garantissez-vous la sécurité de mon application ?
+A: Nous chiffrons les données sensibles, protégeons les API et faisons des tests de sécurité.
+
+Q: Mon application sera-t-elle rapide et fluide ?
+A: Oui, nous optimisons les performances dès la conception.
+
+Q: Est-ce que je peux suivre l’avancement du projet ?
+A: Oui, nous travaillons avec des outils de gestion de projet collaboratifs.
+
+Q: Peut-on faire des réunions régulières de suivi ?
+A: Oui, nous organisons des points de suivi selon votre disponibilité.
+
+Q: Est-ce que je peux proposer des modifications en cours de projet ?
+A: Oui, dans une logique agile, les ajustements sont possibles selon l’évolution de vos besoins.
+
+Q: Est-ce que vous proposez aussi le design de l’application ?
+A: Oui, nos UI/UX designers vous préparent des maquettes avant le développement.
+
+Q: Puis-je valider les maquettes avant de lancer le développement ?
+A: Oui, la validation des maquettes est une étape essentielle.
+
+Q: Est-ce que vous proposez un back-office pour gérer le contenu de l’app ?
+A: Oui, nous pouvons intégrer un système d’administration adapté à vos besoins.
+
+Q: Est-ce que l’application fonctionne hors connexion ?
+A: Oui, certaines fonctionnalités peuvent être disponibles même sans connexion.
+
+Q: Est-ce que vous proposez une maintenance après la livraison ?
+A: Oui, nous proposons des forfaits de support et d’amélioration continue.
+
+Q: Est-ce que mon application sera visible sur les moteurs de recherche ?
+A: Les applications ne sont pas indexées comme les sites, mais nous pouvons créer une page de présentation (landing page) pour cela.
+
+Q: Est-ce que vous pouvez intégrer une solution de paiement dans mon app ?
+A: Oui, nous intégrons Stripe, PayPal, Apple Pay, ou d’autres solutions selon le besoin.
+
+Q: Peut-on intégrer des notifications push dans l’application ?
+A: Oui, elles sont utiles pour engager vos utilisateurs.
+
+Q: Est-ce que vous pouvez connecter mon application à un site web ou à un ERP ?
+A: Oui, nous créons des APIs ou nous connectons à celles existantes.
+
+Q: Est-ce que mon application sera mise à jour facilement ?
+A: Oui, nous prévoyons une architecture flexible pour les mises à jour.
+
+Q: Peut-on suivre les statistiques d’utilisation de l’application ?
+A: Oui, via des outils comme Firebase ou Google Analytics pour apps.
+
+Q: Est-ce que vous gérez le processus de validation sur App Store et Play Store ?
+A: Oui, nous vous accompagnons pour la publication et les révisions si besoin.
+
+Q: Est-ce que l’application est testée sur différents appareils ?
+A: Oui, nous faisons des tests sur plusieurs modèles et résolutions.
+
+Q: Est-ce que vous prévoyez un plan de sauvegarde des données ?
+A: Oui, la sauvegarde et la récupération des données sont incluses dans nos pratiques.
+
+Q: Est-ce que je peux avoir plusieurs profils utilisateurs dans l’application ?
+A: Oui, nous pouvons intégrer des niveaux d’accès différenciés.
+
+Q: L’application peut-elle être utilisée dans plusieurs langues ?
+A: Oui, nous pouvons créer une version multilingue.
+
+Q: Est-ce que vous proposez un accompagnement marketing après lancement ?
+A: Oui, nous pouvons accompagner sur la stratégie de lancement et le marketing digital.
+
+Q: Est-ce que je peux protéger l’accès à mon app par mot de passe ou biométrie ?
+A: Oui, nous proposons des systèmes d’authentification avancés.
+
+Q: Est-ce que je peux personnaliser l’interface selon le profil utilisateur ?
+A: Oui, nous pouvons afficher des contenus dynamiques selon les profils.
+
+Q: Est-ce que vous proposez la création d’icône et visuels pour les stores ?
+A: Oui, nous préparons tout le kit graphique pour les stores.
+
+Q: Est-ce que mon application pourra évoluer vers une application web ou desktop ?
+A: Oui, selon les technologies choisies, nous pouvons envisager une extension cross-plateforme.
+
+Q: Est-ce que vous assurez la confidentialité des données utilisateurs ?
+A: Oui, nous respectons les normes RGPD et autres obligations locales.
+
+Q: Est-ce que vous proposez un support technique aux utilisateurs finaux ?
+A: Cela peut être inclus selon la formule retenue.
+
+Q: Puis-je limiter l’accès à l’application à certaines zones géographiques ?
+A: Oui, nous pouvons intégrer une géolocalisation et des restrictions.
+
+Q: Puis-je intégrer des vidéos ou des fichiers à télécharger ?
+A: Oui, ces fonctionnalités sont standards.
+
+Q: Est-ce que vous proposez une documentation technique pour l’application ?
+A: Oui, une documentation est remise en fin de projet.
+
+Q: Puis-je connecter l’app à mes réseaux sociaux ?
+A: Oui, nous intégrons les liens et partages sociaux.
+
+Q: Peut-on créer une version démo pour présentation ?
+A: Oui, une version de démonstration est possible.
+
+Q: Est-ce que vous proposez des tests utilisateurs ?
+A: Oui, nous pouvons organiser une phase de tests avant lancement.
+
+Q: Est-ce que vous proposez des solutions de chat in-app ?
+A: Oui, via des outils tiers ou des développements sur mesure.
+
+Q: Puis-je limiter l’accès à certaines fonctions par abonnement ou rôle ?
+A: Oui, les systèmes d’abonnement ou de rôles sont disponibles.
+
+Q: Est-ce que je peux ajouter des publicités dans mon app ?
+A: Oui, nous intégrons les réseaux publicitaires comme AdMob.
+
+Q: Est-ce que je peux sauvegarder les données des utilisateurs ?
+A: Oui, localement ou sur le cloud selon votre choix.
+
+Q: Peut-on synchroniser les données entre plusieurs appareils ?
+A: Oui, avec une base de données centralisée.
+
+Q: Est-ce que je peux obtenir un suivi des bugs et suggestions utilisateurs ?
+A: Oui, via des outils de feedback et de gestion des incidents.
+
+Q: Quels types d’outils IA utilisez-vous pour la création de contenu ?
+A: Nous utilisons des générateurs de texte (GPT), outils de création d’images (DALL·E, Midjourney), montage vidéo automatisé, et assistants vocaux.
+
+Q: Comment l’IA peut-elle améliorer mes campagnes marketing ?
+A: Elle permet de personnaliser les messages, optimiser les ciblages, générer des contenus adaptés et automatiser les interactions.
+
+Q: L’IA peut-elle écrire des articles de blog pour mon entreprise ?
+A: Oui, nos outils génèrent des articles optimisés SEO que nous révisons pour garantir qualité et pertinence.
+
+Q: Est-ce que l’IA peut créer des visuels publicitaires ?
+A: Oui, avec des générateurs d’images IA, nous créons des visuels uniques et adaptés à votre charte graphique.
+
+Q: Utilisez-vous l’IA pour analyser les données clients ?
+A: Oui, pour détecter des tendances, segments, comportements et anticiper les besoins.
+
+Q: Peut-on automatiser la prospection commerciale avec l’IA ?
+A: Oui, grâce à des outils de scraping intelligent, scoring automatique et séquences d’approche personnalisées.
+
+Q: L’IA remplace-t-elle complètement les équipes marketing ?
+A: Non, l’IA est un assistant puissant, mais la stratégie, la créativité et la relation humaine restent essentielles.
+
+Q: Comment l’IA aide-t-elle à améliorer le SEO ?
+A: En générant des contenus ciblés, optimisant les mots-clés et analysant la concurrence.
+
+Q: L’IA peut-elle créer des scripts pour vidéos marketing ?
+A: Oui, elle génère des scripts adaptés à vos cibles et objectifs.
+
+Q: Peut-on utiliser l’IA pour rédiger des emails personnalisés ?
+A: Oui, elle permet de créer des séquences d’emails sur mesure selon le profil du prospect.
+
+Q: L’IA est-elle capable d’analyser les sentiments dans les commentaires clients ?
+A: Oui, grâce à la NLP (traitement du langage naturel), nous détectons les émotions et tendances.
+
+Q: Quels outils IA utilisez-vous pour la génération de leads ?
+A: Nous utilisons des solutions basées sur le machine learning pour identifier et qualifier automatiquement les leads.
+
+Q: L’IA peut-elle automatiser la gestion des réseaux sociaux ?
+A: Oui, elle programme les publications, répond aux commentaires et optimise l’engagement.
+
+Q: Comment sécurisez-vous les données utilisées par les outils IA ?
+A: Nous appliquons des normes strictes de confidentialité et anonymisation pour protéger les données clients.
+
+Q: L’IA peut-elle aider à prévoir les ventes ?
+A: Oui, en analysant les historiques et tendances, l’IA propose des prévisions précises.
+
+Q: Utilisez-vous l’IA pour créer des chatbots intelligents ?
+A: Oui, nos chatbots comprennent les demandes, répondent naturellement et orientent les prospects.
+
+Q: Peut-on personnaliser les réponses des chatbots IA ?
+A: Oui, ils sont entraînés spécifiquement sur vos produits, services et langage métier.
+
+Q: L’IA peut-elle aider à détecter les fraudes ou anomalies ?
+A: Oui, en analysant les comportements atypiques et alertant les équipes.
+
+Q: Est-ce que l’IA peut générer des slogans publicitaires ?
+A: Oui, elle propose plusieurs variantes que nous adaptons pour coller à votre image.
+
+Q: L’IA peut-elle automatiser la rédaction de rapports marketing ?
+A: Oui, elle compile les données et rédige des synthèses claires et pertinentes.
+
+Q: Comment intégrez-vous les outils IA avec les CRM existants ?
+A: Nous connectons via API pour enrichir la qualification, le scoring et le suivi client.
+
+Q: L’IA peut-elle aider à segmenter automatiquement mes bases de données ?
+A: Oui, elle identifie des groupes homogènes selon les comportements et critères clés.
+
+Q: Peut-on créer des campagnes marketing générées par IA ?
+A: Oui, de la conception à l’exécution, nous utilisons l’IA pour optimiser chaque étape.
+
+Q: L’IA peut-elle créer du contenu multilingue ?
+A: Oui, elle traduit et adapte le contenu pour plusieurs langues en conservant le ton.
+
+Q: Avez-vous des solutions IA pour la reconnaissance vocale ou images ?
+A: Oui, notamment pour le contrôle qualité, l’assistance client ou la transcription.
+
+Q: L’IA peut-elle générer des idées de contenus ?
+A: Oui, elle propose des sujets innovants et adaptés à votre audience.
+
+Q: Est-ce que vous développez des outils IA sur mesure ?
+A: Oui, nous créons des applications spécifiques à vos besoins métiers.
+
+Q: L’IA peut-elle automatiser la veille concurrentielle ?
+A: Oui, elle analyse les données publiques et vous alerte sur les mouvements du marché.
+
+Q: Peut-on utiliser l’IA pour améliorer la relation client ?
+A: Oui, en proposant des réponses rapides, personnalisées et un suivi proactif.
+
+Q: L’IA est-elle adaptée aux petites entreprises ?
+A: Oui, nos solutions sont modulaires et accessibles à toutes tailles d’entreprise.
+
+Q: Comment formez-vous les équipes à utiliser les outils IA ?
+A: Nous proposons des formations pratiques et supports adaptés à chaque niveau.
+
+Q: L’IA peut-elle aider à créer des scripts d’appel pour la prospection ?
+A: Oui, elle génère des scripts dynamiques selon les profils clients.
+
+Q: Peut-on automatiser le scoring des prospects avec l’IA ?
+A: Oui, en combinant plusieurs critères pour prioriser les leads à fort potentiel.
+
+Q: Quels sont les risques liés à l’utilisation de l’IA ?
+A: La dépendance excessive, la qualité des données, et le besoin de contrôle humain.
+
+Q: Comment garantissez-vous l’éthique dans vos outils IA ?
+A: Nous suivons les bonnes pratiques, respectons la confidentialité et évitons les biais.
+
+Q: L’IA peut-elle personnaliser les parcours clients ?
+A: Oui, elle adapte les messages et offres selon les comportements en temps réel.
+
+Q: Peut-on utiliser l’IA pour analyser les performances des campagnes ?
+A: Oui, avec des analyses prédictives et recommandations automatiques.
+
+Q: L’IA peut-elle générer des scripts vidéo marketing ?
+A: Oui, elle propose des storyboards et dialogues adaptés.
+
+Q: Comment l’IA améliore-t-elle la fidélisation client ?
+A: En anticipant les besoins, envoyant des offres personnalisées et automatisant les relances.
+
+Q: L’IA peut-elle créer des newsletters personnalisées ?
+A: Oui, en adaptant le contenu et la fréquence selon les préférences utilisateurs.
+
+Q: Proposez-vous des solutions IA pour le e-commerce ?
+A: Oui, avec recommandations produits, optimisation des prix et campagnes ciblées.
+
+Q: L’IA peut-elle gérer les campagnes publicitaires en temps réel ?
+A: Oui, avec ajustement automatique des enchères et ciblages.
+
+Q: Utilisez-vous des assistants vocaux dans vos solutions ?
+A: Oui, pour faciliter l’interaction client et automatiser certains services.
+
+Q: L’IA peut-elle aider à rédiger des contrats ou documents ?
+A: Oui, elle propose des brouillons personnalisés à partir de vos modèles.
+
+Q: Quels gains de temps l’IA apporte-t-elle ?
+A: Automatisation des tâches répétitives, génération rapide de contenus et analyse accélérée.
+
+Q: Comment mesurez-vous la performance des outils IA ?
+A: Via des KPIs spécifiques : taux d’usage, précision, gain de conversion, satisfaction client.
+
+Q: Est-ce que vous proposez une assistance en continu pour les outils IA ?
+A: Oui, support technique, mises à jour et optimisation régulière.
+
+Q: L’IA peut-elle automatiser la gestion des leads entrants ?
+A: Oui, elle qualifie, répartit et suit chaque lead automatiquement.
+
+
+Q: Quels secteurs bénéficient le plus de vos solutions IA ?
+A: Industrie, e-commerce, services, santé, finance, et bien d’autres.
+
+
+Q: Quelle est la valeur ajoutée de Navitrends avec l’IA ?
+A: Une expertise avancée, une intégration sur mesure et un accompagnement humain garantissant succès et innovation.
+
+
+Q: Comment assurez-vous la gestion des campagnes Meta Ads (Facebook/Instagram) ?
+A: Nous concevons des audiences personnalisées, créons des visuels attractifs, testons différentes variantes, et ajustons les budgets pour obtenir les meilleurs résultats.
+
+Q: Offrez-vous un accompagnement sur LinkedIn Ads pour le B2B ?
+A: Oui, nous ciblons les décideurs grâce aux filtres avancés de LinkedIn (poste, secteur, taille d’entreprise) et créons des messages adaptés aux prospects professionnels.
+
+Q: Pouvez-vous intégrer l’intelligence artificielle dans la création de contenu marketing ?
+A: Absolument. Nous utilisons des outils IA pour générer des textes, images, vidéos et messages adaptés à vos audiences, tout en conservant une touche humaine.
+
+Q: Quels types de contenus marketing pouvez-vous créer avec l’IA ?
+A: Articles de blog, posts réseaux sociaux, emails, descriptions produits, scripts vidéo, slogans, et plus encore.
+
+Q: Comment garantissez-vous la pertinence des annonces dans une campagne Ads ?
+A: Par une analyse fine des données, tests A/B, ajustement des enchères et ciblages, et un suivi régulier des performances.
+
+Q: Que faites-vous pour optimiser le budget publicitaire ?
+A: Nous analysons le coût par clic, le coût par conversion, et réallouons le budget vers les campagnes et mots-clés les plus performants.
+
+Q: Pouvez-vous gérer la création et l’envoi de campagnes d’email marketing ?
+A: Oui, nous créons des emails personnalisés, adaptés à la segmentation client, et suivons les taux d’ouverture, clics et conversions.
+
+Q: Quels outils d’email marketing utilisez-vous ?
+A: Mailgun, Mailchimp, Sendinblue, et des solutions intégrées à vos CRM.
+
+Q: Proposez-vous des campagnes SMS marketing ?
+A: Oui, avec segmentation précise, messages personnalisés et suivi en temps réel des taux de lecture et réponse.
+
+Q: Comment intégrez-vous les campagnes Ads avec les CRM ?
+A: Nous synchronisons les leads générés pour un suivi immédiat et une meilleure qualification commerciale.
+
+Q: Aidez-vous à la création de landing pages optimisées ?
+A: Oui, nous concevons des pages d’atterrissage rapides, convaincantes et optimisées SEO et UX pour maximiser les conversions.
+
+Q: Quelle est la durée moyenne d’une campagne Ads avant d’observer des résultats ?
+A: Généralement, les premiers résultats apparaissent après 7 à 14 jours, mais l’optimisation continue est essentielle.
+
+Q: Offrez-vous un reporting détaillé des campagnes ?
+A: Oui, avec des dashboards personnalisés, indicateurs clés, et analyses des performances.
+
+Q: Comment définissez-vous les personas pour une campagne marketing ?
+A: Grâce à des ateliers, études de marché, données CRM et analyse comportementale.
+
+Q: Avez-vous une démarche spécifique pour le retargeting publicitaire ?
+A: Oui, nous créons des audiences de visiteurs et prospects pour leur présenter des annonces ciblées et adaptées.
+
+Q: Utilisez-vous l’automatisation marketing ?
+A: Oui, pour envoyer des séquences d’emails, relances SMS et messages personnalisés au bon moment.
+
+Q: Comment travaillez-vous avec les outils IA pour éviter les contenus génériques ?
+A: Nous combinons l’IA avec une validation humaine experte pour garantir originalité et authenticité.
+
+Q: Proposez-vous des formations sur l’utilisation des campagnes digitales ?
+A: Oui, pour vos équipes marketing ou commerciales, en présentiel ou à distance.
+
+Q: Comment suivez-vous la qualité des leads générés par les campagnes ?
+A: Par le tracking complet, la qualification automatique et un reporting précis.
+
+Q: Pouvez-vous développer des outils de prospection sur mesure ?
+A: Oui, nous créons des solutions personnalisées basées sur les dernières technologies (IA, scraping, CRM automation).
+
+Q: Comment assurez-vous la conformité RGPD dans les campagnes marketing ?
+A: Nous appliquons les règles de consentement, anonymisation et respect des droits utilisateurs.
+
+Q: Est-il possible d’automatiser la gestion des réseaux sociaux ?
+A: Oui, planification des publications, réponses automatiques et analyse des interactions.
+
+Q: Comment gérez-vous les campagnes multi-plateformes (Google, Meta, LinkedIn) ?
+A: Par une coordination centralisée et une stratégie cohérente adaptée à chaque canal.
+
+Q: Proposez-vous des tests A/B dans les campagnes publicitaires ?
+A: Oui, pour optimiser les titres, visuels, textes, et ciblages.
+
+Q: Quels sont les KPIs que vous suivez en priorité ?
+A: Taux de clic (CTR), coût par clic (CPC), taux de conversion, coût par acquisition (CPA), retour sur investissement (ROI).
+
+Q: Pouvez-vous intégrer le tracking Google Analytics et Pixel Facebook ?
+A: Oui, pour un suivi précis des visiteurs et conversions.
+
+Q: Comment travaillez-vous avec les équipes internes du client ?
+A: Nous privilégions la collaboration agile, avec points réguliers, échanges d’informations et transparence.
+
+Q: Quelle est la fréquence des rapports et recommandations ?
+A: Selon le besoin : hebdomadaire, bi-hebdomadaire ou mensuelle.
+
+Q: Proposez-vous un audit de campagne existante ?
+A: Oui, nous analysons les performances, identifions les axes d’amélioration et proposons un plan d’optimisation.
+
+Q: Comment exploitez-vous les données CRM dans vos campagnes ?
+A: Pour des ciblages personnalisés, des campagnes de fidélisation et la segmentation fine.
+
+Q: Pouvez-vous créer des séquences automatisées pour le nurturing ?
+A: Oui, des workflows d’emails et SMS adaptés aux comportements et étapes du parcours client.
+
+Q: Utilisez-vous des chatbots pour la génération de leads ?
+A: Oui, intégrés aux sites web ou pages de campagne pour qualifier les visiteurs en temps réel.
+
+Q: Avez-vous des solutions pour le social selling sur LinkedIn ?
+A: Oui, avec des outils d’automatisation, suivi des interactions et prise de contact personnalisée.
+
+Q: Comment gérez-vous la création de visuels pour les campagnes ?
+A: Nous utilisons des outils IA pour accélérer la création, complétés par des designers pour garantir la qualité.
+
+Q: Pouvez-vous adapter les campagnes aux différents marchés géographiques ?
+A: Oui, avec des ciblages géo-localisés, contenus adaptés aux langues et cultures locales.
+
+Q: Offrez-vous un support pendant toute la durée de la campagne ?
+A: Oui, avec un interlocuteur dédié pour suivre, ajuster et répondre à vos questions.
+
+Q: Comment intégrez-vous les campagnes dans une stratégie globale marketing ?
+A: Nous alignons les campagnes Ads avec les contenus, SEO, emailing et actions commerciales.
+
+Q: Proposez-vous des campagnes pour augmenter la notoriété de la marque ?
+A: Oui, avec des stratégies de visibilité, brand awareness et engagement.
+
+Q: Quel est votre processus pour lancer une campagne SMSing ?
+A: Segmentation, création de message, tests d’envoi, suivi des retours et optimisation.
+
+Q: Comment assurez-vous la délivrabilité des emails ?
+A: Nous configurons les DNS (SPF, DKIM), suivons les taux de rejet, et optimisons les listes de diffusion.
+
+Q: Est-ce que vous intégrez les données marketing avec les ventes ?
+A: Oui, pour assurer un suivi complet du cycle de vie client.
+
+Q: Avez-vous des outils pour mesurer le sentiment client sur les réseaux ?
+A: Oui, via la veille sociale, l’analyse des commentaires et des tendances.
+
+Q: Proposez-vous la création de vidéos marketing avec IA ?
+A: Oui, nous générons des scripts, animations, et montages rapides.
+
+Q: Quelle place donnez-vous à l’expérience utilisateur dans vos campagnes ?
+A: Une place centrale, pour maximiser les conversions et fidéliser.
+
+Q: Comment accompagnez-vous la mise en place du tracking et du pixel de conversion ?
+A: Nous installons, configurons et testons tous les outils nécessaires pour un suivi fiable.
+
+Q: Pouvez-vous automatiser le reporting marketing ?
+A: Oui, avec des dashboards dynamiques accessibles en temps réel.
+
+Q: Est-il possible de créer des campagnes personnalisées pour des événements spécifiques ?
+A: Oui, nous concevons des campagnes ciblées pour salons, lancements produits, promotions, etc.
+
+Q: Avez-vous des solutions pour gérer les avis clients dans la communication ?
+A: Oui, avec intégration d’outils de collecte, modération et diffusion des avis.
+
+Q: Quelle est la plus-value de Navitrends dans l’accompagnement marketing digital ?
+A: Notre maîtrise technique, la personnalisation des stratégies, l’usage avancé de l’IA et notre accompagnement de bout en bout garantissent des campagnes performantes et adaptées à vos objectifs.
+
+Q: Peut-on connecter un ERP à un système de contrôle qualité avec capteurs et caméras ?
+A: Oui, nous avons l’expertise pour connecter les ERP à des systèmes embarqués incluant capteurs, caméras, et intelligence artificielle pour automatiser les contrôles qualité en temps réel.
+
+Q: Intégrez-vous des systèmes IoT avec Odoo ou ERPNext ?
+A: Absolument. Nous développons des modules ou intergiciels pour connecter vos objets industriels (machines, capteurs, automates) à l’ERP.
+
+Q: Puis-je démarrer uniquement avec la partie CRM et évoluer vers l’ERP plus tard ?
+A: Oui. Nos solutions sont modulables et évolutives. Vous pouvez commencer avec le CRM puis étendre selon vos besoins.
+
+Q: Quel est l'avantage d'un ERP open source par rapport à un ERP propriétaire ?
+A: Un ERP open source est plus flexible, personnalisable, sans coût de licence, et vous êtes libre de changer de prestataire.
+
+Q: Avez-vous des solutions pour les sociétés de conseil ou cabinets de formation ?
+A: Oui. Nous proposons des CRM pour piloter les leads, organiser les sessions, envoyer des questionnaires et suivre les performances.
+
+Q: Intégrez-vous des outils de Business Intelligence dans les ERP ?
+A: Oui. Nous créons des tableaux de bord décisionnels, avec des KPIs sur mesure, directement intégrés à l’ERP.
+
+Q: Votre solution CRM peut-elle suivre les objectifs et performances des commerciaux ?
+A: Oui. Vous pouvez fixer des objectifs, suivre les taux de conversion, analyser les pipelines et piloter les performances commerciales.
+
+Q: Peut-on créer des automatisations dans le CRM ?
+A: (emails, rappels, tâches...)
+Oui. Nous configurons des automatisations selon votre stratégie commerciale pour maximiser l'efficacité de votre équipe.
+
+Q: Proposez-vous un accompagnement à la conduite du changement ?
+A: Oui, c’est une de nos forces. Nous vous aidons à faire adhérer vos équipes, à anticiper les résistances et à réussir la transition.
+
+Q: Est-ce possible d'intégrer un système de maintenance préventive basé sur l’IA ?
+A: Oui, nous pouvons intégrer des modèles de machine learning pour anticiper les pannes à partir des données historiques.
+
+Q: Odoo permet-il de gérer la fabrication industrielle ?
+A: Oui. Odoo dispose d’un module MRP (Manufacturing Resource Planning) complet, que nous personnalisons selon vos flux.
+
+Q: ERPNext permet-il de gérer plusieurs entrepôts et localisations ?
+A: Oui, il est natif multi-entrepôt et multi-localisation, avec traçabilité complète.
+
+Q: Avez-vous déjà intégré des solutions de reconnaissance d’image dans un ERP ?
+A: Oui, notamment pour le contrôle qualité avec caméras industrielles. Cela permet des décisions automatisées sur les lignes.
+
+Q: Est-ce possible de faire du dropshipping intégré à mon ERP ?
+A: Oui. Nous avons mis en place des connexions avec des fournisseurs pour automatiser les commandes en dropshipping.
+
+Q: Puis-je intégrer mon ERP avec mon site WordPress WooCommerce ?
+A: Oui. Nous réalisons des connexions entre WooCommerce, Prestashop ou Shopify et les ERP pour synchroniser produits, commandes, clients.
+
+Q: Gérez-vous des alertes personnalisées dans les CRM ?
+A: Oui. Nous pouvons générer des alertes email, SMS ou push internes selon des règles métier définies avec vous.
+
+Q: Peut-on gérer la traçabilité matière première dans l’ERP ?
+A: Oui, que ce soit dans Odoo, ERPNext ou sur mesure. La traçabilité complète (lot, série, fournisseur) est assurée.
+
+Q: Intégrez-vous les nomenclatures complexes ?
+A: Oui, nous prenons en charge les nomenclatures à plusieurs niveaux et la gestion des variantes techniques.
+
+Q: Avez-vous déjà digitalisé une usine ?
+A: Oui, avec la mise en place d’un ERP connecté aux machines, à la maintenance, à la qualité et aux équipes de production.
+
+Q: Peut-on suivre les performances d’une chaîne de production dans l’ERP ?
+A: Oui. Nous développons des dashboards de performance (TRS, cadence, pannes, qualité) intégrés à l’ERP.
+
+Q: Puis-je savoir si mon client a ouvert mes emails via le CRM ?
+A: Oui. Nous mettons en place le suivi des interactions : ouvertures, clics, réponses.
+
+Q: Gérez-vous des scripts d’appel dans le CRM pour les commerciaux ?
+A: Oui. Nous intégrons des scripts, des checklists et des questionnaires dynamiques pour guider la prospection.
+
+Q: Le CRM peut-il prioriser les leads automatiquement ?
+A: Oui. Grâce au scoring des leads basé sur des critères (source, comportement, profil...), vos équipes se concentrent sur les plus prometteurs.
+
+Q: Peut-on gérer des relances automatiques sur devis non signés ?
+A: Oui. Des workflows permettent d’envoyer des rappels à fréquence personnalisée jusqu’à validation ou clôture.
+
+Q: Est-ce que Navitrends peut reprendre un projet ERP commencé ailleurs ?
+A: Oui. Nous auditons votre projet, récupérons vos données et reprenons la main dans une logique de continuité.
+
+Q: Fournissez-vous des formations métiers sur les ERP/CRM ?
+A: Oui. Nos formations sont adaptées à chaque profil (direction, commercial, production...) avec des cas concrets.
+
+Q: Avez-vous une démarche agile pour vos projets ERP ?
+A: Oui. Nous fonctionnons en sprints avec démos régulières pour ajuster la solution en cours de route.
+
+Q: Est-ce que l'ERP peut m'aider à prévoir mes stocks ?
+A: Oui. Nous intégrons des mécanismes de prévision basés sur l’historique et les tendances de ventes.
+
+Q: Le CRM peut-il se connecter à mes campagnes Google Ads ou Facebook Ads ?
+A: Oui. Nous pouvons suivre les sources de leads et mesurer la rentabilité de chaque campagne marketing.
+
+Q: Peut-on filtrer automatiquement les leads frauduleux ou spam ?
+A: Oui. Nous appliquons des filtres par email, géolocalisation, nom ou comportement pour assainir votre base.
+
+Q: Votre ERP gère-t-il le planning de production ?
+A: Oui. Vous pouvez planifier les ordres, estimer les charges, suivre les retards, et ajuster les priorités.
+
+Q: L’ERP gère-t-il les arrêts machine ?
+A: Oui. Vous pouvez enregistrer, qualifier et analyser les arrêts pour améliorer votre TRS.
+
+Q: Avez-vous des solutions pour les prestataires de maintenance industrielle ?
+A: Oui. Nous fournissons des ERP/CRM pour gérer les contrats, interventions, techniciens, pièces détachées et facturation.
+
+Q: Peut-on lier l’ERP à une imprimante d’étiquettes ?
+A: Oui. Nous configurons l’impression automatique d’étiquettes pour les produits, palettes, colis, etc.
+
+Q: Puis-je gérer la documentation qualité ISO dans l’ERP ?
+A: Oui. Vous pouvez archiver, versionner et diffuser vos procédures, non-conformités, audits internes.
+
+Q: Le CRM peut-il segmenter mes clients selon leur comportement ?
+A: Oui. Nous créons des segments dynamiques (RFM, fréquence, panier, comportement) pour un meilleur ciblage.
+
+Q: Avez-vous une solution pour les devis complexes multi-produits ?
+A: Oui. Nous concevons des modules de devis assistés, configurateurs, variantes techniques et remises dynamiques.
+
+Q: Gérez-vous les demandes de SAV ou réclamations clients ?
+A: Oui. Nous mettons en place un Helpdesk ou système de tickets intégré au CRM.
+
+Q: Proposez-vous un tableau de bord unique pour toute l’entreprise ?
+A: Oui. Nos dashboards centralisent les KPIs commerciaux, financiers, production et qualité.
+
+Q: Peut-on se connecter à des marketplaces comme Amazon ou Cdiscount ?
+A: Oui. Nous développons ou intégrons des connecteurs pour synchroniser les ventes et les stocks.
+
+Q: Est-ce que le CRM permet de gérer les appels entrants ?
+A: Oui, avec l’intégration à un système téléphonique VOIP, vous suivez les appels, enregistrez les conversations, etc.
+
+Q: L’ERP peut-il gérer des productions en sous-traitance ?
+A: Oui. Vous suivez les ordres externes, les coûts et les délais dans le flux de production.
+
+Q: Fournissez-vous des modules personnalisés par métier ?
+A: Oui. Notre spécialité est d’adapter chaque module aux processus de votre entreprise.
+
+Q: Peut-on limiter l’accès à certaines données ?
+A: Oui. La gestion des droits est fine et personnalisée selon le rôle et les besoins dechaque utilisateur.
+
+Q: Est-ce que l’ERP peut m’alerter sur les écarts de production ?
+A: Oui. Des alertes automatiques peuvent être déclenchées sur les écarts de quantité, temps ou qualité.
+
+Q: Votre CRM peut-il m'aider à gérer mes rendez-vous commerciaux ?
+A: Oui. Vous pouvez planifier, synchroniser avec Google/Outlook, recevoir des rappels et suivre les comptes-rendus.
+
+Q: Est-ce que l’ERP peut gérer la traçabilité des produits alimentaires ?
+A: Oui. Nous avons des cas concrets dans l’agroalimentaire avec traçabilité de bout en bout (de la matière au client).
+
+Q: Intégrez-vous des outils de reporting financiers ?
+A: Oui. Nous mettons en place des rapports automatiques de ventes, marges, résultats, etc.
+
+Q: Est-ce que vous accompagnez la certification ISO via l’ERP ?
+A: Oui. Nos solutions facilitent l’archivage des preuves, la traçabilité qualité et les audits internes.
+
+Q: Comment gérez-vous les autorisations et la confidentialité des données dans un ERP ?
+A: Chaque utilisateur dispose d’un rôle défini avec des permissions spécifiques pour garantir la confidentialité des données et la traçabilité des actions.
+
+Q: Est-ce que l’ERP permet une planification à capacité finie ?
+A: Oui, dans nos solutions comme Odoo ou ERPNext, nous proposons des modules de planification prenant en compte les capacités réelles de production et les contraintes machines.
+
+Q: Peut-on visualiser graphiquement les plannings de production ?
+A: Oui, nous proposons des vues Gantt, calendriers ou tableaux Kanban personnalisés.
+
+Q: Comment gérez-vous les flux inter-sites (multi-entrepôts, multi-sociétés) ?
+A: Nos ERP supportent nativement la gestion multi-entités, avec possibilité d’automatiser les transferts, la comptabilité consolidée et les stocks répartis.
+
+Q: Intégrez-vous des tableaux de bord personnalisés pour chaque métier ?
+A: Oui, chaque utilisateur ou service peut avoir des tableaux de bord adaptés à ses besoins, avec indicateurs en temps réel.
+
+Q: L’ERP peut-il fonctionner sans connexion Internet ?
+A: En mode cloud, non. Pour certains cas critiques, nous pouvons proposer des solutions hybrides avec synchronisation.
+
+Q: Avez-vous déjà intégré un ERP avec un système de vision industrielle ou d’analyse d’image ?
+A: Oui, notamment dans des projets industriels avec caméras pour le contrôle qualité en temps réel, relié à l’ERP pour déclencher des actions automatiques.
+
+Q: Peut-on créer des règles d’automatisation selon des événements (alertes, seuils, etc.) ?
+A: Oui, nos ERP permettent de déclencher des alertes ou workflows dès qu’un événement (ex : dépassement de stock, devis signé) se produit.
+
+Q: L’ERP peut-il être utilisé sur une tablette ou un smartphone ?
+A: Nos solutions sont 100 % web responsives, et nous proposons aussi des apps mobiles (notamment pour Odoo et ERPNext).
+
+Q: Est-ce que vous proposez une API pour connecter le CRM à des outils externes ?
+A: Oui, nos solutions offrent des API REST complètes pour connecter à d’autres outils comme des comparateurs de prix, des marketplaces, ou des applications métiers.
+
+Q: Peut-on gérer la maintenance préventive et curative dans l’ERP ?
+A: Oui, avec des plannings de maintenance, alertes d’usure, ordres d’intervention, et historiques des pannes et pièces changées.
+
+Q: Comment suivez-vous la qualité et les réclamations clients ?
+A: Nos modules qualité et SAV permettent de gérer les incidents, les retours, les inspections, avec analyses des causes (Ishikawa, 5 pourquoi, etc.).
+
+Q: Votre équipe peut-elle s’adapter aux spécificités du secteur agroalimentaire ?
+A: Oui, nous avons déjà adapté Odoo et ERPNext pour des clients du secteur agroalimentaire (traçabilité, lots, DLC, transformation).
+
+Q: Peut-on lier l’ERP à un site e-commerce ?
+A: Oui, via des connecteurs avec WooCommerce, Shopify, Magento ou des APIs personnalisées, nous assurons une synchronisation bidirectionnelle.
+
+Q: Comment adaptez-vous les CRM pour des équipes commerciales terrain ?
+A: En proposant des interfaces simplifiées sur mobile, synchronisées avec l’agenda, les tâches et les fiches prospects consultables hors ligne.
+
+Q: Est-ce que vous intégrez les fonctions de signature électronique dans le CRM ?
+A: Oui, nous pouvons intégrer des modules de signature électronique sécurisée, comme Docusign ou SignRequest.
+
+Q: Avez-vous une solution pour suivre les devis, relancer les clients, et mesurer les taux de conversion ?
+A: Oui, nos CRM intègrent des pipelines de vente avec suivi des étapes, relances automatiques et reporting sur la performance.
+
+Q: Comment accompagnez-vous les équipes dans la prise en main du CRM ?
+A: Nous organisons des formations pratiques par rôle métier, accompagnées de tutoriels vidéo, guides interactifs et hotline dédiée.
+
+Q: Est-ce que le CRM permet de suivre les appels, emails et rendez-vous automatiquement ?
+A: Oui, nous connectons les outils de téléphonie, email, agenda pour que toutes les interactions soient centralisées.
+
+Q: Le CRM peut-il intégrer une logique de scoring ou de qualification automatique des leads ?
+A: Oui, nous configurons des règles qui attribuent un score aux leads selon leur comportement, leur secteur ou leur potentiel.
+
+Q: Quels outils de veille concurrentielle intégrez-vous pour les e-commerçants ?
+A: Nous connectons des APIs de comparateurs de prix, scrapers automatisés, et alertes pour surveiller les mouvements de la concurrence.
+
+Q: Votre équipe développe-t-elle des tableaux de bord de performance marketing dans le CRM ?
+A: Oui, avec suivi des campagnes, ROI, taux de clic, de conversion, de désabonnement, etc.
+
+Q: Le CRM peut-il gérer les campagnes SMS, Emailing, WhatsApp ?
+A: Oui, nous intégrons des modules pour envoyer et suivre les campagnes multicanales.
+
+Q: Peut-on intégrer des flux produits dynamiques avec le CRM ?
+A: Oui, notamment pour les catalogues en ligne, les promotions automatisées et les alertes de nouveautés.
+
+Q: Peut-on personnaliser l’interface utilisateur ?
+A: Oui, chaque utilisateur peut adapter l’affichage, les vues, les filtres et les tableaux selon ses préférences.
+
+Q: Comment détectez-vous les besoins réels du client au début du projet ?
+A: Grâce à une série d’ateliers de cadrage approfondis, avec interviews, analyses des flux existants et simulations de cas d’usage.
+
+Q: Que proposez-vous pour le suivi post-lancement ?
+A: Un accompagnement de 3 à 12 mois selon le projet, avec support réactif, suivi de performance et évolution continue.
+
+Q: Proposez-vous des solutions d’audit ou de reprise de projet ERP existant ?
+A: Oui, nous pouvons intervenir en audit de diagnostic, amélioration ou migration d’ERP déjà en place.
+
+Q: Avez-vous une cellule R&D ou d’innovation ?
+A: Oui, notre équipe R&D travaille régulièrement sur des projets combinant ERP, vision industrielle, objets connectés et IA.
+
+Q: Quels types de clients industriels vous accompagnent déjà ?
+A: Nous avons accompagné des industriels dans les domaines du textile, de l’agroalimentaire, de l’électronique, et de la fabrication mécanique.
+
+Q: Le CRM peut-il se synchroniser avec des outils comme Google Calendar, Outlook, Trello, etc. ?
+A: Oui, nous intégrons des synchronisations natives ou via API avec les principaux outils du marché.
+
+Q: Est-ce que vous proposez un accompagnement stratégique (transformation digitale) en plus de la technique ?
+A: Oui, nous accompagnons nos clients dans leur vision stratégique, en leur proposant des feuilles de route digitales adaptées.
+
+Q: Vos ERP permettent-ils une gestion des temps et des présences ?
+A: Oui, avec badgeuse, pointage mobile, gestion des heures supplémentaires, plannings, et absences.
+
+Q: Est-ce que vous proposez des indicateurs pour la performance commerciale ?
+A: Oui, nombre de leads traités, taux de signature, valeur des paniers, fréquence d’achat, panier moyen, etc.
+
+Q: Vos solutions peuvent-elles aider à la gestion de la relation fournisseur ?
+A: Oui, avec suivi des appels d’offres, performances fournisseurs, évaluations et communication centralisée.
+
+Q: Est-ce que vous aidez les entreprises à digitaliser leurs flux papiers ?
+A: Oui, nous proposons des outils de GED (gestion électronique de documents), signatures, OCR, et workflows automatisés.
+
+Q: Est-ce que l’on peut créer des rôles personnalisés dans l’ERP ?
+A: Oui, chaque utilisateur peut avoir des droits sur-mesure, limités à certaines fonctions ou données.
+
+Q: Quels langages utilisez-vous pour le développement sur mesure ?
+A: Python (Odoo/ERPNext), PHP (Dolibarr), JS (fronts réactifs), et des frameworks adaptés à l’environnement client.
+
+Q: Est-ce que vous gérez des projets en plusieurs langues ?
+A: Oui, nos outils gèrent le multilingue et nous traduisons les modules selon les langues des utilisateurs.
+
+Q: Vos ERP peuvent-ils gérer les normes ISO et les audits qualité ?
+A: Oui, nous proposons des modules qualité alignés sur les normes ISO (9001, 14001…), avec historiques, plans d’actions et indicateurs.
+
+Q: Comment assurez-vous la sécurité des accès au système ?
+A: Authentification à deux facteurs, contrôle d’accès basé sur les rôles, journalisation des actions.
+
+Q: Proposez-vous des ERP pour des startups ?
+A: Oui, nous avons des offres légères et évolutives pour les jeunes entreprises.
+
+Q: Le système peut-il nous aider à gérer les certifications produits ?
+A: Oui, avec suivi des dates, documents, alertes de renouvellement et conformité réglementaire.
+
+Q: Est-ce que vous intégrez la gestion de l’environnement et du développement durable ?
+A: Oui, notamment avec la gestion des consommations, empreinte carbone, et analyse des flux logistiques.
+
+Q: Avez-vous des solutions de support technique rapide ?
+A: Oui, via notre Helpdesk, chat, ticketing et possibilité d’intervention à distance immédiate.
+
+Q: Peut-on automatiser les relances clients (impayés, devis, SAV) ?
+A: Oui, avec des scénarios personnalisés selon type de client, délai et canal préféré.
+
+Q: Peut-on exporter les données à tout moment ?
+A: Oui, vous avez la maîtrise de vos données, avec export Excel, CSV, PDF, ou API.
+
+Q: Peut-on intégrer la gestion des projets dans l’ERP ?
+A: Oui, avec tâches, plannings, jalons, ressources, et indicateurs de pilotage.
+
+Q: Est-ce que le système gère les ventes B2B et B2C en même temps ?
+A: Oui, avec des canaux différenciés, des règles tarifaires et logistiques propres à chaque modèle.
+
+Q: Quelle est votre plus grande force ?
+A: Notre force réside dans notre capacité à allier expertise technique, adaptation métier pointue, proximité client et accompagnement personnalisé de bout en bout du projet.
+
+Q: Qu’est-ce qu’un ERP et pourquoi en ai-je besoin ?
+A: Un ERP (Enterprise Resource Planning) est un logiciel de gestion intégré qui centralise l'ensemble des processus métier d'une entreprise. Il améliore la productivité, réduit les erreurs et facilite la prise de décision grâce à une vision globale.
+
+Q: Quelle est la différence entre un ERP et un CRM ?
+A: Un ERP gère les ressources internes (stocks, production, RH, etc.), tandis qu’un CRM (Customer Relationship Management) se concentre sur la relation client (prospection, ventes, service après-vente…).
+
+Q: Quels sont les avantages d’un ERP open source comme Odoo, Dolibarr ou ERPNext ?
+A: Flexibilité, absence de coûts de licence, forte communauté, possibilité de personnalisation, évolutivité.
+
+Q: Pourquoi choisir une solution open source plutôt qu’un ERP propriétaire ?
+A: Pour garder le contrôle total sur vos données, éviter l’enfermement propriétaire, et adapter le système à vos besoins réels sans frais excessifs.
+
+Q: Quelle est la différence entre Odoo, Dolibarr et ERPNext ?
+A: Odoo est très modulable, Dolibarr est simple à prendre en main, ERPNext est orienté industrie. Nous vous aidons à choisir selon vos besoins.
+
+Q: Quels types d’entreprises peuvent utiliser vos ERP ?
+A: Nous travaillons avec des industriels, des e-commerçants, des sociétés de services, des startups et même des ONG.
+
+Q: Proposez-vous des solutions sur-mesure ?
+A: Oui, nous développons des ERP/CRM sur-mesure lorsque les solutions existantes ne couvrent pas 100 % des besoins de nos clients.
+
+Q: Vos ERP sont-ils évolutifs ?
+A: Oui, ils sont conçus pour évoluer avec l’entreprise, tant en termes de volume d’activité que de complexité organisationnelle.
+
+Q: Votre ERP peut-il être utilisé sur mobile ?
+A: Oui, nos solutions sont responsives, et nous proposons aussi des applications mobiles connectées à votre ERP.
+
+Q: Puis-je commencer avec une seule fonctionnalité et en ajouter d'autres plus tard ?
+A: Absolument. Nos ERP sont modulaires, ce qui vous permet de commencer petit et d’ajouter des modules selon vos besoins.
+
+Q: Comment démarre un projet ERP chez Navitrends ?
+A: Par une phase d’analyse des besoins, un atelier fonctionnel, puis une proposition détaillée de solution (Odoo, Dolibarr, ERPNext ou sur-mesure).
+
+Q: Aidez-vous à rédiger le cahier des charges ?
+A: Oui. Nous co-construisons avec vous un cahier des charges technique et fonctionnel clair et opérationnel.
+
+Q: Quel est votre processus de déploiement ERP ?
+A: Analyse → Paramétrage → Personnalisation → Migration de données → Formation → Mise en production → Support.
+
+Q: Quels livrables fournissez-vous pendant le projet ?
+A: Planning, cahier des charges, documentation utilisateur, vidéo de formation, accès aux environnements de test.
+
+Q: Proposez-vous des formations ?
+A: Oui, des formations adaptées à chaque profil utilisateur, en présentiel ou à distance, avec supports personnalisés.
+
+Q: Avez-vous un support après la mise en production ?
+A: Oui. Nous offrons des services de maintenance corrective, évolutive, assistance utilisateur et monitoring.
+
+Q: Comment garantissez-vous la réussite du projet ?
+A: Grâce à notre approche centrée sur le client, nos ateliers métiers, notre capacité à personnaliser les outils, et notre expérience multisectorielle.
+
+Q: Est-ce que vous proposez une recette utilisateur avant mise en production ?
+A: Oui. Nous organisons une phase de tests complète pour valider ensemble que le système fonctionne comme attendu.
+
+Q: Quelles sont vos forces dans l’accompagnement des industriels ?
+A: Compréhension des process complexes, expérience en GPAO, planification, gestion de la maintenance et intégration d’IA industrielle.
+
+Q: Comment garantissez-vous la sécurité des données ?
+A: Hébergement sécurisé, accès restreints, sauvegardes automatiques, cryptage des communications et politique de confidentialité rigoureuse.
+
+Q: Votre ERP gère-t-il la production industrielle ?
+A: Oui. Nos solutions permettent de planifier la production, gérer les ordres de fabrication, les gammes opératoires, et le suivi atelier.
+
+Q: Puis-je gérer la maintenance préventive et curative ?
+A: Oui, avec un module GMAO (Gestion de Maintenance Assistée par Ordinateur) intégré à l’ERP.
+
+Q: L’ERP permet-il de suivre les non-conformités ?
+A: Oui. Vous pouvez enregistrer, classer, analyser les non-conformités et mettre en place des actions correctives.
+
+Q: Puis-je suivre la traçabilité des produits ?
+A: Oui, nos ERP permettent de tracer les lots, les séries, et de gérer des historiques complets de production.
+
+Q: Intégrez-vous des caméras et capteurs industriels à l’ERP ?
+A: Oui. Nous avons des projets d’intégration de systèmes embarqués avec caméras et intelligence artificielle.
+
+Q: Votre ERP gère-t-il les nomenclatures et les gammes ?
+A: Oui. Gestion multi-niveaux des nomenclatures, variantes produits, opérations, postes de charge, etc.
+
+Q: Est-il possible de simuler la charge machine ?
+A: Oui. Avec la planification avancée, vous pouvez visualiser et ajuster la charge des ressources.
+
+Q: Le système fonctionne-t-il avec des scanners code-barres ?
+A: Oui. Nos ERP sont compatibles avec des scanners pour la gestion de stock, production et logistique.
+
+Q: Puis-je suivre les indicateurs de performance en temps réel ?
+A: Oui. Tableaux de bord personnalisés, KPIs, alertes en temps réel selon vos priorités.
+
+Q: Intégrez-vous les contraintes qualité ISO ?
+A: Oui. Nos ERP permettent de suivre les contrôles qualité, plans de contrôle, audits internes et conformité aux normes ISO.
+
+Q: Votre CRM peut-il être relié à mon site e-commerce ?
+A: Oui, nous synchronisons votre site (Prestashop, WooCommerce, Shopify…) avec votre ERP/CRM.
+
+Q: Puis-je analyser la concurrence avec votre CRM ?
+A: Oui. Nous proposons des veilles concurrentielles automatisées : prix, produits, promotions, etc.
+
+Q: Puis-je créer des scénarios de relance automatique ?
+A: Oui. Campagnes e-mailing, relance de paniers abandonnés, scoring de leads, tout est possible.
+
+Q: Gérez-vous les bons de réduction et les promotions ?
+A: Oui, nos solutions permettent de créer des campagnes commerciales complexes et ciblées.
+
+Q: Le CRM permet-il de suivre les performances des commerciaux ?
+A: Oui. Vous suivez les appels, emails, tâches, réunions et leurs conversions.
+
+Q: Le CRM peut-il se connecter à WhatsApp ou Messenger ?
+A: Oui, via des intégrations disponibles, nous centralisons les conversations client dans le CRM.
+
+Q: Puis-je créer des tunnels de vente personnalisés ?
+A: Oui. Nos CRM vous permettent de suivre vos leads depuis l’intérêt initial jusqu’à la vente.
+
+Q: Puis-je connecter mon CRM à une solution d’emailing ?
+A: Oui. Mailchimp, Mailgun, Sendinblue, etc., sont intégrés ou intégrables à nos CRM.
+
+Q: Comment améliorer la fidélisation via votre CRM ?
+A: En automatisant les relances post-vente, les enquêtes satisfaction et les offres personnalisées.
+
+Q: Puis-je suivre la rentabilité de chaque client ?
+A: Oui. Nos outils de reporting vous permettent d’identifier les clients les plus rentables.
+
+Q: Votre CRM est-il adapté aux sociétés de services ?
+A: Oui. Il permet de gérer les leads, les rendez-vous, les propositions commerciales, et la facturation récurrente.
+
+Q: Peut-on automatiser la prise de rendez-vous ?
+A: Oui, via intégration de calendriers et d’outils de réservation en ligne.
+
+Q: Le système gère-t-il la facturation récurrente ?
+A: Oui. Abonnements, contrats de maintenance, prestations régulières sont gérés automatiquement.
+
+Q: Puis-je suivre les devis envoyés et leur taux de transformation ?
+A: Oui. Vous aurez des tableaux de bord de suivi de devis, acceptation, négociation, refus.
+
+Q: Puis-je regrouper plusieurs clients en comptes entreprise ?
+A: Oui. Nos CRM permettent la gestion de groupes d’entreprises ou de contacts hiérarchisés.
+
+Q: Comment l’outil aide-t-il mes commerciaux à mieux vendre ?
+A: Avec une fiche client enrichie, un historique d’interactions, et un tableau de suivi des objectifs.
+
+Q: Puis-je attribuer des leads automatiquement ?
+A: Oui, avec des règles par secteur, langue, disponibilité ou charge commerciale.
+
+Q: Puis-je suivre la rentabilité de chaque prestation ?
+A: Oui. Analyse par projet, par consultant, par client, par type de service.
+
+Q: Proposez-vous des outils de devis personnalisés ?
+A: Oui, les devis sont configurables avec options, remises, variantes, et formats multilingues.
+
+Q: Puis-je faire signer mes documents en ligne ?
+A: Oui. Intégration de signature électronique sécurisée (DocuSign, SignRequest…).
+

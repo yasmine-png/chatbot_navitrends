@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+numpy
+pydantic
+fuzzywuzzy
+python-Levenshtein
+redis
+aiosmtplib

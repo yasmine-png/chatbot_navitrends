@@ -1,0 +1,169 @@
+{
+  "start": {
+    "message": "Bienvenue chez Navitrends ! Que souhaitez-vous faire ?",
+    "choices": {
+      "Découvrir les services ": "services",
+      "Obtenir de l’aide technique": "aide",
+      "Contacter un support": "contact"
+    }
+  },
+  "services": {
+    "message": "Voici un aperçu des services proposés par Navitrends :\n\nDéveloppement de sites web & applications : création de sites vitrines, e-commerce, applications web et mobiles (Flutter, React Native, natif), avec sécurité, SEO, intégration de paiements, multilingue, et évolutivité.\nSolutions ERP/CRM/BI : intégration et personnalisation d’ERP open source (Odoo, Dolibarr, ERPNext), gestion de production, stocks, qualité, maintenance, CRM, automatisation des leads, reporting, connecteurs e-commerce, IoT, et BI sur mesure.\nOutils d’IA & automatisation : génération de contenus, analyse de données, automatisation marketing, recommandations produits, chatbots, reconnaissance d’image, maintenance prédictive, newsletters personnalisées.\nMarketing digital : campagnes Google/Meta/LinkedIn Ads, SMS, emailing, création de contenus, reporting, tracking, retargeting, optimisation de budget, landing pages, intégration CRM, et formation aux outils digitaux.\nConsulting, formation & accompagnement : ateliers de cadrage, audit, gestion de projet agile, formations personnalisées, documentation, support post-lancement, conduite du changement, R&D et innovation sur mesure.\nVous souhaitez :",
+    "choices": {
+      "En savoir plus sur les ERP/CRM": "erp",
+      "Découvrir nos solutions IA": "ia",
+      " marketing digital": "marketing",
+      " Applications mobiles": "mobile",
+      "Applications web": "web",
+      "Contacter le support Navitrends": "contact"
+    }
+  },
+  "web": {
+    "message": "Voici un aperçu de nos solutions web chez Navitrends :\n\nTypes de projets : Nous réalisons des sites vitrines pour présenter votre activité, des sites e-commerce pour vendre en ligne, ou des applications web interactives si vous avez besoin d’outils avancés. Nous vous orientons selon vos objectifs et votre secteur d’activité. Un portfolio de réalisations est disponible sur demande.\nAccompagnement personnalisé : Nous proposons une phase de cadrage pour clarifier vos besoins, des ateliers de brainstorming, et la validation des maquettes pour garantir que le site reflète bien votre image de marque.\nMultilingue & contenu : Nos sites peuvent être multilingues et nous proposons la rédaction de contenu si besoin.\nSEO & performance : L’optimisation technique pour le référencement (SEO) est incluse dès le départ. Nous assurons la compatibilité avec Google Analytics et Search Console, et proposons des audits SEO après lancement. La rapidité de chargement et l’indexation sur Google sont également prises en charge.\nSécurité & maintenance : Mise en place de systèmes de détection des connexions malveillantes, chiffrement des données sensibles, tests de sécurité, et contrats de maintenance disponibles après livraison.\nFonctionnalités avancées : Intégration de newsletters, Google Ads, Facebook Ads, réseaux sociaux, formulaires, paiement en ligne, et suivi mensuel du trafic via des rapports personnalisés.\nMéthodologie agile : Suivi de projet collaboratif, réunions régulières, possibilité d’ajuster le projet en cours de route, et validation des étapes clés par le client.\nSouhaitez-vous en savoir plus sur :",
+    "choices": {
+      "Exemples de sites réalisés": "exemples_sites_realises",
+      "Processus de création d’un site": "processus_creation_site",
+      "Fonctionnalités e-commerce": "fonctionnalites_ecommerce",
+      "Contacter le support": "contact"
+    }
+  },
+  "fonctionnalites_ecommerce": {
+    "message": "Fonctionnalités e-commerce\n\nVoici un aperçu des principales fonctionnalités e-commerce proposées par Navitrends :\n\nBoutiques en ligne sur-mesure : développement sur WordPress, WooCommerce, Prestashop, Shopify ou sur-mesure, avec design personnalisé, gestion multilingue et évolutivité garantie.\nPaiements en ligne sécurisés : intégration de Stripe, PayPal ou autres passerelles locales pour des transactions fiables et conformes aux normes de sécurité.\nGestion des produits et des stocks : synchronisation avec ERP/CRM pour la gestion des catalogues, commandes, stocks multi-entrepôts, dropshipping et traçabilité des produits.\nPromotions et campagnes commerciales : création de bons de réduction, promotions ciblées, relance de paniers abandonnés et campagnes marketing multicanales (email, SMS, WhatsApp).\nAutomatisation et personnalisation : tunnels de vente personnalisés, segmentation dynamique des clients, scoring de leads, recommandations produits par IA et automatisation des relances.\nIntégrations avancées : connexion avec marketplaces (Amazon, Cdiscount…), CRM, outils d’emailing (Mailchimp, Sendinblue…), comparateurs de prix et APIs externes.\nExpérience utilisateur optimisée : responsive design, rapidité de chargement, conformité aux normes d’accessibilité, intégration de chatbots, Google Maps, modules de réservation et newsletters.\nReporting et analyse : tableaux de bord de performance, suivi des ventes, analyse du ROI, veille concurrentielle et indicateurs personnalisés.\nSécurité et conformité RGPD : protection des données, gestion des consentements, sauvegardes régulières et maintenance de sécurité.\nSouhaitez-vous des détails sur une fonctionnalité précise ou un accompagnement pour votre projet e-commerce ?",
+    "choices": {
+      "En savoir plus sur l'intégration ERP/CRM": "aider",
+      "Demander un audit e-commerce": "audit_ecommerce",
+      "Obtenir de l’aide sur le marketing digital": "marketing",
+      "Contacter le support": "contact"
+    }
+  },
+  "dashboards_industriels": {
+    "message": "Navitrends propose des **dashboards industriels personnalisés** intégrés à votre ERP (Odoo, ERPNext, Dolibarr ou sur-mesure) pour piloter la performance de vos ateliers et de votre production en temps réel.\nVoici ce que vous pouvez suivre et visualiser :\n\n- **Indicateurs clés de production** : TRS, cadence, pannes, qualité, arrêts machine, suivi des ordres de fabrication et des non-conformités.\n- **Tableaux de bord multi-métiers** : chaque service (production, qualité, maintenance, logistique, direction) dispose de ses propres KPIs et vues personnalisées.\n- **Alertes et automatisations** : déclenchement d’alertes en temps réel sur les écarts de production, la maintenance préventive, la qualité ou les stocks.\n- **Visualisation avancée** : vues Gantt, Kanban, calendriers, graphiques dynamiques, accès web et mobile.\n- **Intégration IoT & vision industrielle** : connexion possible avec capteurs, automates, caméras pour un suivi automatisé et des décisions en temps réel.\n- **Reporting & export** : génération de rapports automatiques, exports multi-formats, accès sécurisé et gestion fine des droits utilisateurs.\n\nNos solutions sont évolutives, adaptées à chaque secteur industriel et peuvent être enrichies de modules BI, maintenance (GMAO), traçabilité, conformité ISO, etc.\n\nN’hésitez pas à demander une démo ou à consulter la documentation détaillée pour découvrir les cas d’usage concrets.",
+    "choices": {
+      "Contacter le support": "contact"
+    }
+  },
+  "securite_sites_web": {
+    "message": "La sécurité des sites web est une priorité chez Navitrends. Voici les principales garanties apportées :\n\n- **Protection contre les attaques** : application des bonnes pratiques de sécurité (protection contre le piratage, injections, etc.) et réalisation de tests réguliers.\n- **Certificat SSL (HTTPS)** inclus par défaut sur tous nos hébergements pour sécuriser les échanges de données.\n- **Sauvegardes régulières** selon la fréquence souhaitée (quotidienne, hebdomadaire, etc.) pour garantir la restauration rapide en cas d’incident.\n- **Pare-feu et protection anti-spam** : intégration d’outils comme Wordfence ou reCAPTCHA pour filtrer les accès et bloquer les robots malveillants.\n- **Détection et blocage des connexions malveillantes** : mise en place de systèmes automatiques pour surveiller et bloquer les tentatives suspectes.\n- **Respect du RGPD** : intégration systématique des obligations de protection des données personnelles dans chaque projet.\n- **Maintenance de sécurité** : contrats de maintenance disponibles pour assurer les mises à jour, le monitoring et la correction rapide des failles.\n- **Accès complet au code source** : vous êtes propriétaire du code et pouvez y accéder à tout moment.\n\nPour toute demande spécifique (audit, documentation, ou accompagnement sur la sécurité), notre équipe support est à votre disposition.",
+    "choices": {
+      "Contacter le support": "contact"
+    }
+  },
+  "securite_applications_mobiles": {
+    "message": "La sécurité des applications mobiles développées par Navitrends repose sur plusieurs engagements :\n\n- **Chiffrement des données sensibles** pour garantir la confidentialité des informations utilisateurs.\n- **Protection des API et limitation des accès** pour éviter toute intrusion ou exploitation non autorisée.\n- **Tests de sécurité** réalisés tout au long du développement pour détecter et corriger les vulnérabilités.\n- **Respect des normes RGPD** et obligations locales pour la gestion des données personnelles.\n- **Systèmes d’authentification avancés** (mot de passe, biométrie) disponibles pour protéger l’accès à l’application.\n- **Plan de sauvegarde et récupération des données** inclus dans les pratiques courantes.\n- **Architecture flexible** permettant des mises à jour régulières et une correction rapide des failles potentielles.\n- **Tests multi-appareils** pour garantir la robustesse et la sécurité sur différents environnements.\n- **Documentation technique et accompagnement post-livraison** pour assurer la pérennité et la sécurité de votre solution.\n\nToutes ces mesures sont intégrées dans notre démarche projet, de la conception à la maintenance.",
+    "choices": {
+      "Contacter le support": "contact"
+    }
+  },
+  "securite_erp_crm_bi": {
+    "message": "La sécurité des solutions ERP, CRM et BI chez Navitrends repose sur plusieurs dispositifs avancés :\n\n- **Contrôle d’accès strict** : gestion fine des droits et permissions selon le rôle de chaque utilisateur, pour garantir la confidentialité des données et la traçabilité des actions.\n- **Authentification forte** : authentification à deux facteurs (2FA), contrôle d’accès basé sur les rôles, journalisation des actions sensibles.\n- **Hébergement sécurisé & sauvegardes** : hébergement sécurisé, accès restreints, sauvegardes automatiques et cryptage des communications pour protéger vos données.\n- **Conformité RGPD & ISO** : respect des normes RGPD, gestion des historiques, traçabilité qualité, modules alignés sur les normes ISO (9001, 14001…), gestion des audits internes et plans d’actions.\n- **Reporting & traçabilité** : tableaux de bord personnalisés, indicateurs en temps réel, traçabilité complète des opérations et des accès.\n- **API sécurisées** : intégration possible avec des outils externes via API REST sécurisées.\n\nPour toute demande spécifique (audit sécurité, documentation technique, conformité sectorielle), notre équipe peut vous accompagner ou vous fournir des ressources complémentaires.",
+    "choices": {
+      "Contacter le support": "contact"
+    }
+  },
+  "preciser_besoin_rgpd": {
+    "message": "Navitrends intègre la conformité RGPD dans tous ses projets digitaux (sites web, applications, ERP/CRM, campagnes marketing) :\n\n- **Respect des obligations RGPD** : intégration systématique des règles de consentement, anonymisation des données, gestion des droits utilisateurs et respect de la confidentialité dans chaque projet.\n- **Sécurité des données** : hébergement sécurisé, accès restreints, sauvegardes automatiques, cryptage des communications et politique de confidentialité rigoureuse.\n- **Gestion fine des droits** : contrôle d’accès basé sur les rôles, permissions personnalisées, authentification forte (2FA), traçabilité des actions et journalisation des accès.\n- **Accompagnement et documentation** : remise de documentation technique, guides RGPD, et possibilité de formation pour vos équipes sur la gestion des données personnelles.\n- **Campagnes marketing** : application stricte des règles RGPD (consentement, anonymisation, droit à l’oubli) dans la gestion des campagnes digitales et CRM.\n\nPour des besoins spécifiques (audit RGPD, anonymisation avancée, documentation ou accompagnement personnalisé), notre équipe peut vous conseiller et adapter la solution à votre secteur."
+  },
+  "mobile": {
+    "message": "Navitrends propose un service complet de développement d’applications mobiles sur mesure, adaptées à vos besoins métiers et à votre secteur d’activité. Voici les points clés :\n\n- **Technologies** : développement natif, Flutter ou React Native pour une application Android/iOS unique ou dédiée.\n- **Accompagnement** : ateliers de cadrage pour définir les fonctionnalités, design UI/UX personnalisé, validation des maquettes avant développement.\n- **Fonctionnalités avancées** : notifications push, paiement intégré (Stripe, PayPal, Apple Pay…), gestion multilingue, profils utilisateurs, accès sécurisé (mot de passe, biométrie), back-office d’administration, synchronisation avec site web ou ERP, statistiques d’utilisation, fonctionnement hors connexion.\n- **Publication & support** : accompagnement pour la publication sur App Store et Google Play, maintenance évolutive, support technique, sauvegarde et récupération des données, tests multi-appareils.\n- **Confidentialité & sécurité** : respect des normes RGPD, chiffrement des données, tests de sécurité, gestion fine des accès.\n- **Livrables** : code source, documentation technique, kit graphique pour les stores, version de démonstration possible.\n\nVous bénéficiez d’un suivi projet collaboratif, de réunions régulières, et d’une grande flexibilité pour faire évoluer votre application selon vos besoins.\n\nSouhaitez-vous :",
+    "choices": {
+      "Demander un devis pour une application mobile": "demander_devis_mobile",
+      "En savoir plus sur les technologies utilisées": "technologies_utilisees_mobile",
+      "Voir la documentation technique": "documentation_technique_mobile",
+      "Contacter le support Navitrends": "contact"
+    }
+  },
+  "demander_devis_mobile": {
+    "message": "Pour obtenir un devis pour une application mobile sur mesure, Navitrends vous accompagne dès la définition de votre projet :\n\n- **Ateliers de cadrage** pour identifier vos besoins\n- **Choix des technologies** (Flutter, React Native ou natif)\n- **Design UI/UX personnalisé**\n- **Fonctionnalités avancées** (notifications push, paiement, multilingue, back-office, connexion à ERP ou site web, etc.)\n- **Publication sur les stores**\n- **Support complet** tout au long du projet\n\nAfin de vous proposer un devis précis, il est recommandé de préparer :\n\n- Une description de votre projet et de ses objectifs\n- Les fonctionnalités souhaitées (ex : paiement, notifications, profils utilisateurs…)\n- Les plateformes ciblées (Android, iOS ou les deux)\n- Vos éventuelles contraintes de délai ou de budget\n\nNavitrends organise des ateliers pour clarifier vos besoins et vous accompagne dans la rédaction du cahier des charges si besoin.",
+    "choices": {
+      "Voir les étapes d’un projet mobile": "etapes_projet_mobile",
+      "Découvrir les technologies utilisées": "technologies_utilisees_mobile",
+      "En savoir plus sur l’accompagnement et contacter un support": "contact"
+    }
+  },
+  "technologies_utilisees_mobile": {
+    "message": "Navitrends utilise principalement trois technologies pour le développement d’applications mobiles : **Flutter, React Native et le développement natif (Android/iOS)**. Le choix dépend de vos besoins :\n\n- **Flutter et React Native** permettent de créer une seule base de code pour Android et iOS, ce qui optimise les coûts et les délais tout en assurant une expérience utilisateur fluide et performante.\n- Le **développement natif** est privilégié pour des besoins très spécifiques ou des fonctionnalités avancées propres à une plateforme.\n- Navitrends accompagne également la publication sur les stores, l’intégration de fonctionnalités avancées (notifications push, paiement, multilingue, back-office, connexion à un site web ou ERP), la sécurité (chiffrement, authentification forte), la maintenance, et propose des tests multi-appareils pour garantir la qualité de l’application.\n\nSouhaitez-vous :",
+    "choices": {
+      "Voir des exemples de fonctionnalités": "exemples_fonctionnalites",
+      "En savoir plus sur la sécurité mobile": "securite_applications_mobiles",
+      "Demander un devis personnalisé": "demander_devis_mobile",
+      "Contactez le support": "contact"
+    }
+  },
+  "etapes_projet_mobile": {
+    "message": "Voici les principales étapes d’un projet d’application mobile avec Navitrends :\n\n- **Atelier de cadrage** : définition de vos besoins, choix des fonctionnalités, priorisation du MVP, et validation du cahier des charges avec nos experts.\n- **Design UI/UX** : création de maquettes personnalisées par nos designers, avec validation par vos soins avant le développement.\n- **Développement** : réalisation technique en Flutter, React Native ou natif selon vos objectifs, avec des livrables intermédiaires et des versions de test régulières (APK/TestFlight) pour recueillir vos retours.\n- **Tests et ajustements** : phase de tests multi-appareils, organisation de tests utilisateurs, corrections et évolutions dans une logique agile.\n- **Publication** : accompagnement pour la publication sur App Store et Google Play, gestion des visuels, description et conformité aux guidelines des stores.\n- **Formation et documentation** : remise d’une documentation technique et, si besoin, formation à l’utilisation ou à l’administration du back-office.\n- **Support & maintenance** : forfaits de maintenance, mises à jour, support technique, suivi des statistiques d’utilisation et accompagnement post-lancement.\n\nTout au long du projet, vous bénéficiez d’un suivi collaboratif, de points réguliers et de la possibilité d’ajuster les fonctionnalités selon l’évolution de vos besoins.\n\nSouhaitez-vous :",
+    "choices": {
+      "Voir la checklist projet mobile": "checklist_projet_mobile",
+      "En savoir plus sur le design UI/UX": "design_ui_ux",
+      "Contactez le support Navitrends": "contact"
+    }
+  },
+  "en_savoir_plus_sur_l_accompagnement": {
+    "message": "En savoir plus sur l’accompagnement\n\nNavitrends propose un accompagnement complet et personnalisé tout au long de votre projet digital :\n\n- **Phase de cadrage** : ateliers approfondis pour analyser vos besoins, simuler des cas d’usage et co-construire un cahier des charges technique et fonctionnel.\n- **Méthodologie agile** : gestion en sprints, livrables intermédiaires, points de validation réguliers et ajustements selon vos retours.\n- **Formation et documentation** : supports adaptés à chaque profil utilisateur, guides vidéo, accès à un environnement de test, documentation utilisateur et technique.\n- **Déploiement et recette** : phase de tests complète avant la mise en production pour valider ensemble le bon fonctionnement du système.\n- **Support post-lancement** : accompagnement de 3 à 12 mois selon le projet, hotline, ticketing, maintenance corrective et évolutive, suivi de performance et évolution continue.\n- **Conduite du changement** : aide à l’adhésion des équipes, anticipation des résistances et formation continue pour garantir la réussite de la transition digitale.\n- **Accompagnement stratégique** : feuille de route digitale, conseils sur la transformation numérique et adaptation à vos enjeux métier.\n\nCet accompagnement s’adresse aussi bien aux équipes techniques qu’aux utilisateurs métiers, et s’adapte à tous les secteurs (industrie, services, e-commerce, ONG, PME, etc.).\n\nSouhaitez-vous :",
+    "choices": {
+      "Voir la méthodologie projet détaillée": "methodologie_projet_detaillee",
+      "Découvrir l’offre de formation": "offre_formation",
+      "Contacter le support Navitrends": "contact"
+    }
+  },
+  "securite_applications_mobiles": {
+    "message": "Navitrends accorde une grande importance à la sécurité des applications mobiles :\n\n- **Chiffrement des données sensibles** pour garantir la confidentialité des informations utilisateurs.\n- **Protection des API et limitation des accès** pour éviter toute intrusion ou exploitation non autorisée.\n- **Tests de sécurité** réalisés tout au long du développement pour détecter et corriger les vulnérabilités.\n- **Respect des normes RGPD** et obligations locales pour la gestion des données personnelles.\n- **Systèmes d’authentification avancés** (mot de passe, biométrie) disponibles pour protéger l’accès à l’application.\n- **Plan de sauvegarde et récupération des données** inclus dans les pratiques courantes.\n- **Architecture flexible** permettant des mises à jour régulières et une correction rapide des failles potentielles.\n- **Tests multi-appareils** pour garantir la robustesse et la sécurité sur différents environnements.\n- **Documentation technique et accompagnement post-livraison** pour assurer la pérennité et la sécurité de votre solution.\n\nToutes ces mesures sont intégrées dans notre démarche projet, de la conception à la maintenance.",
+    "choices": {
+      "Contacter le support": "contact"
+    }
+  },
+  "documentation_technique_mobile": {
+    "message": "Navitrends remet une documentation technique complète pour chaque projet d’application mobile, couvrant :\n\n- **L’architecture de l’application** (Flutter, React Native ou natif)\n- **Les fonctionnalités intégrées** (API, sécurité, gestion des profils, notifications, paiement, multilingue…)\n- **Les procédures de déploiement, publication sur les stores, et gestion des mises à jour**\n- **Les guides d’intégration** (connexion à un ERP, site web, etc.)\n- **Les bonnes pratiques de sécurité** (chiffrement, authentification forte, RGPD)\n- **Les modalités de tests, maintenance, sauvegarde et récupération des données**\n- **Les accès au back-office, gestion des rôles et droits utilisateurs**\n- **Les outils de suivi des bugs et suggestions**\n\nCette documentation est remise en fin de projet et adaptée à votre solution, avec possibilité d’organiser des ateliers de prise en main et de fournir des supports vidéo ou guides utilisateurs complémentaires.\n\nPour aller plus loin :",
+    "choices": {
+      "Contacter le support": "contact"
+    }
+  },
+  "en_savoir_plus_sur_le_design_ui_ux": {
+    "message": "Navitrends accorde une importance centrale au design UI/UX pour garantir une expérience utilisateur optimale et une identité visuelle fidèle à votre marque. Voici les points clés de leur approche :\n\n- **Ateliers de cadrage et brainstorming** : Navitrends organise des ateliers pour bien comprendre vos besoins, définir les usages et co-construire le cahier des charges. Cette étape permet de s’assurer que le design reflète parfaitement votre image et vos attentes.\n- **Maquettes personnalisées** : Des UI/UX designers conçoivent des maquettes sur Figma ou Adobe XD, soumises à validation avant tout développement. Plusieurs allers-retours sont possibles jusqu’à votre entière satisfaction.\n- **Respect de la charte graphique et accessibilité** : Les couleurs, polices et éléments graphiques sont adaptés à votre charte ou créés sur mesure. Les normes d’accessibilité (WCAG) sont systématiquement respectées pour garantir un accès optimal à tous les utilisateurs.\n- **Expérience utilisateur (UX)** : L’ergonomie, la clarté des contenus, la rapidité et la navigation intuitive sont au cœur de la démarche. Navitrends privilégie une approche sur-mesure, mais peut aussi adapter des templates personnalisables selon le budget.\n- **Validation et évolutivité** : Vous validez chaque étape du design. Les solutions sont pensées pour être évolutives et adaptables à vos futurs besoins, que ce soit pour un site web ou une application mobile.\n- **Tests utilisateurs et accompagnement** : Possibilité d’organiser des tests utilisateurs avant le lancement et de bénéficier d’un accompagnement post-livraison pour ajuster ou faire évoluer l’interface.",
+    "choices": {
+      "En savoir plus sur l’accessibilité": "en_savoir_plus_sur_l_accessibilite",
+      "En savoir plus sur la conformité RGPD": "en_savoir_plus_sur_la_conformite_rgpd",
+      "Contacter le support": "contact"
+    }
+  },
+  "en_savoir_plus_sur_l_accessibilite": {
+    "message": "Navitrends accorde une grande importance à l’accessibilité de ses sites web et applications. Toutes les réalisations respectent les standards d’accessibilité web (WCAG) afin de garantir un accès optimal aux personnes en situation de handicap. Cela inclut :\n\n- **L’application systématique des normes WCAG** lors du développement\n- **Un design pensé pour la lisibilité, la navigation intuitive et l’ergonomie, validé avec vous avant toute mise en ligne**\n- **L’adaptation des couleurs, polices et éléments graphiques à votre charte ou sur mesure**\n- **Des allers-retours de validation jusqu’à satisfaction complète**\n\nCette démarche vise à offrir une expérience utilisateur inclusive, quel que soit le profil ou le support utilisé (ordinateur, mobile, tablette).",
+    "choices": {
+      "Contacter un support": "contact",
+      "En savoir plus sur la conformité RGPD": "en_savoir_plus_sur_la_conformite_rgpd"
+    }
+  },
+  "checklist_projet_mobile": {
+    "message": "Voici la checklist des étapes clés pour un projet d’application mobile avec Navitrends :\n\n- **Atelier de cadrage** : définition de vos besoins, choix des fonctionnalités, priorisation du MVP, validation du cahier des charges avec les experts Navitrends.\n- **Design UI/UX** : création de maquettes personnalisées, validation avec vous avant tout développement.\n- **Développement** : réalisation technique (Flutter, React Native ou natif), livrables intermédiaires, versions de test régulières (APK/TestFlight) pour recueillir vos retours.\n- **Tests et ajustements** : tests multi-appareils, organisation de tests utilisateurs, corrections et évolutions dans une logique agile.\n- **Sécurité** : chiffrement des données, protection des API, authentification forte, conformité RGPD, tests de sécurité avant mise en production.\n- **Publication** : accompagnement pour la publication sur App Store et Google Play, gestion des visuels et conformité aux guidelines des stores.\n- **Documentation & formation** : remise d’une documentation technique complète, guides utilisateurs, supports vidéo, ateliers de prise en main.\n- **Maintenance & support** : contrat de maintenance, hotline, ticketing, mises à jour, sauvegarde et récupération des données, accompagnement post-lancement.\n\nSouhaitez-vous :",
+    "choices": {
+      "Voir un exemple de cahier des charges mobile": "exemple_cahier_des_charges_mobile",
+      "En savoir plus sur la maintenance": "en_savoir_plus_sur_la_maintenance"
+    }
+  },
+  "exemples_fonctionnalites": {
+    "message": "Voici quelques exemples de fonctionnalités que Navitrends peut intégrer dans une application mobile :\n\n- **Authentification sécurisée** (mot de passe, biométrie) et gestion de profils utilisateurs avec rôles différenciés\n- **Notifications push** pour engager vos utilisateurs\n- **Paiement intégré** (Stripe, PayPal, Apple Pay, etc.)\n- **Fonctionnement hors connexion** pour certaines fonctionnalités clés\n- **Back-office d’administration** pour gérer les contenus et utilisateurs\n- **Version multilingue** et personnalisation de l’interface selon le profil\n- **Statistiques d’utilisation** (Firebase, Google Analytics)\n- **Intégration avec un site web, un ERP ou d’autres systèmes via API**\n- **Sauvegarde et récupération des données, synchronisation multi-appareils**\n- **Géolocalisation, restrictions d’accès par zone, gestion des abonnements**\n- **Intégration de vidéos, fichiers à télécharger, chat in-app, partages sociaux**\n- **Tests multi-appareils, accompagnement pour la publication sur App Store/Google Play**\n- **Possibilité d’ajouter des publicités, de limiter l’accès à certaines fonctions par abonnement ou rôle, et d’obtenir un suivi des bugs/suggestions utilisateurs**\n\nToutes ces fonctionnalités sont personnalisables selon vos besoins métiers et votre secteur d’activité.",
+    "choices": {
+      "Souhaitez-vous :": {
+        "Voir la checklist projet mobile": "checklist_projet_mobile",
+        "En savoir plus sur la sécurité mobile": "securite_applications_mobiles",
+        "Contacter un support": "contact"
+      }
+    }
+  }
+}
+=======
+  "en_savoir_plus_sur_le_design_ui_ux": {
+    "message": "Navitrends accorde une importance centrale au design UI/UX pour garantir une expérience utilisateur optimale et une identité visuelle fidèle à votre marque. Voici les points clés de leur approche :\n\n- **Ateliers de cadrage et brainstorming** : Navitrends organise des ateliers pour bien comprendre vos besoins, définir les usages et co-construire le cahier des charges. Cette étape permet de s’assurer que le design reflète parfaitement votre image et vos attentes.\n- **Maquettes personnalisées** : Des UI/UX designers conçoivent des maquettes sur Figma ou Adobe XD, soumises à validation avant tout développement. Plusieurs allers-retours sont possibles jusqu’à votre entière satisfaction.\n- **Respect de la charte graphique et accessibilité** : Les couleurs, polices et éléments graphiques sont adaptés à votre charte ou créés sur mesure. Les normes d’accessibilité (WCAG) sont systématiquement respectées pour garantir un accès optimal à tous les utilisateurs.\n- **Expérience utilisateur (UX)** : L’ergonomie, la clarté des contenus, la rapidité et la navigation intuitive sont au cœur de la démarche. Navitrends privilégie une approche sur-mesure, mais peut aussi adapter des templates personnalisables selon le budget.\n- **Validation et évolutivité** : Vous validez chaque étape du design. Les solutions sont pensées pour être évolutives et adaptables à vos futurs besoins, que ce soit pour un site web ou une application mobile.\n- **Tests utilisateurs et accompagnement** : Possibilité d’organiser des tests utilisateurs avant le lancement et de bénéficier d’un accompagnement post-livraison pour ajuster ou faire évoluer l’interface.",
+    "choices": {
+      "En savoir plus sur l’accessibilité": "en_savoir_plus_sur_l_accessibilite",
+      "En savoir plus sur la conformité RGPD": "en_savoir_plus_sur_la_conformite_rgpd",
+      "Contacter le support": "contact"
+    }
+  },
+  "en_savoir_plus_sur_l_accessibilite": {
+    "message": "Navitrends accorde une grande importance à l’accessibilité de ses sites web et applications. Toutes les réalisations respectent les standards d’accessibilité web (WCAG) afin de garantir un accès optimal aux personnes en situation de handicap. Cela inclut :\n\n- **L’application systématique des normes WCAG** lors du développement\n- **Un design pensé pour la lisibilité, la navigation intuitive et l’ergonomie, validé avec vous avant toute mise en ligne**\n- **L’adaptation des couleurs, polices et éléments graphiques à votre charte ou sur mesure**\n- **Des allers-retours de validation jusqu’à satisfaction complète**\n\nCette démarche vise à offrir une expérience utilisateur inclusive, quel que soit le profil ou le support utilisé (ordinateur, mobile, tablette).",
+    "choices": {
+      "Contacter un support": "contact",
+      "En savoir plus sur la conformité RGPD": "en_savoir_plus_sur_la_conformite_rgpd"
+    }
+  }
+}
